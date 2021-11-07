@@ -12,8 +12,8 @@ jobs:
     - uses: actions/checkout@v2
     - uses: rehanhaider/pelican-build-action@v0.1.11
       env:
-        PELICAN_CONFIG_FILE: app/publishconf.py
-        PELICAN_CONTENT_FOLDER: app/content
+        PELICAN_CONFIG_FILE: publishconf.py
+        PELICAN_CONTENT_FOLDER: content
     - uses: FirebaseExtended/action-hosting-deploy@v0
       with:
         repoToken: '${{ secrets.GITHUB_TOKEN }}'
