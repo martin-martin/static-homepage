@@ -1,5 +1,6 @@
 from pathlib import Path
 from urllib import request
+import json
 
 from bs4 import BeautifulSoup
 
@@ -38,8 +39,11 @@ def build_posts(info):
     for type, content_list in info.items():
         if type == "authored":
             for article in content_list:
+                course = False
                 url = "https://realpython.com/" + article[0]
                 title = article[1]
+                if title.endswith("(Course)"):
+                    course = True
                 fn_string = article[0].strip("/") + ".md"
                 file_name = Path(fn_string).name
                 file_path = POST_PATH.joinpath(file_name)
@@ -53,14 +57,32 @@ Authors: Martin Breuss
 Summary: Real Python Article
 Url: {url}
 
-Read or watch my tutorial over at _Real Python_."""
+{'Watch' if course else 'Read'} my {'video course' if course else 'tutorial'} on _Real Python_."""
                 # try:
                 file_path.write_text(POST_CONTENT)
                 # except FileNotFoundError as e:
                 #     print(e)
 
 
+def write_info(info):
+    article_db_path = Path().cwd() / "articles.json"
+    jsonified_info = json.dumps(info)
+    article_db_path.write_text(jsonified_info)
+    return f"Articles written to {article_db_path}"
+
+
+def load_info():
+    article_db_path = Path().cwd() / "articles.json"
+    with open(article_db_path) as in_file:
+        info = json.load(in_file)
+    return info
+
 
 if __name__ == "__main__":
-    info = extract_info(get_tutorials(URL))
+    # Uncomment below to scrape posts anew
+    # info = extract_info(get_tutorials(URL))
+    # write_info(info)
+
+    # Uncomment below to write new post files
+    info = load_info()
     build_posts(info)

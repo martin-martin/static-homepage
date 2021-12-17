@@ -8,4 +8,4 @@ Authors: Martin Breuss
 Summary: Real Python Article
 Url: https://realpython.com//django-setup/
 
-Read or watch my tutorial over at _Real Python_.
+Read my tutorial on _Real Python_.

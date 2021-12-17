@@ -1,0 +1,126 @@
+{
+    "authored": [
+        [
+            "/how-long-does-it-take-to-learn-python/",
+            "How Long Does It Take to Learn Python?"
+        ],
+        [
+            "/django-setup/",
+            "Your First Steps With Django: Set Up a Django Project"
+        ],
+        [
+            "/beautiful-soup-web-scraper-python/",
+            "Beautiful Soup: Build a Web Scraper With Python"
+        ],
+        [
+            "/python-web-applications/",
+            "Python Web Applications: Deploy Your Script as a Flask App"
+        ],
+        [
+            "/courses/reading-input-writing-output-python/",
+            "Reading Input and Writing Output in Python (Course)"
+        ],
+        [
+            "/courses/writing-idiomatic-python/",
+            "Writing Idiomatic Python (Course)"
+        ],
+        [
+            "/courses/graph-data-with-python-and-ggplot/",
+            "Graph Your Data With Python and ggplot (Course)"
+        ],
+        [
+            "/courses/python-sleep-uptime-bot/",
+            "Using sleep() to Code a Python Uptime Bot (Course)"
+        ],
+        [
+            "/courses/set-up-django-project/",
+            "How to Set Up a Django Project (Course)"
+        ],
+        [
+            "/courses/web-scraping-beautiful-soup/",
+            "Web Scraping With Beautiful Soup and Python (Course)"
+        ],
+        [
+            "/courses/finding-perfect-python-code-editor/",
+            "Finding the Perfect Python Code Editor (Course)"
+        ],
+        [
+            "/courses/variables-python/",
+            "Variables in Python (Course)"
+        ],
+        [
+            "/courses/django-portfolio-project/",
+            "Get Started With Django: Build a Portfolio App (Course)"
+        ],
+        [
+            "/courses/using-jupyter-notebooks/",
+            "Using Jupyter Notebooks (Course)"
+        ]
+    ],
+    "contributed": [
+        [
+            "/python-pretty-print/",
+            "Prettify Your Data Structures With Pretty Print in Python"
+        ],
+        [
+            "/advanced-visual-studio-code-python/",
+            "Advanced Visual Studio Code for Python Developers"
+        ],
+        [
+            "/python-typer-cli/",
+            "Build a Command-Line To-Do App With Python and Typer"
+        ],
+        [
+            "/build-a-content-aggregator-python/",
+            "Build a Content Aggregator in Python"
+        ],
+        [
+            "/django-template-custom-tags-filters/",
+            "Django Templates: Implementing Custom Tags and Filters"
+        ],
+        [
+            "/python-property/",
+            "Python's property(): Add Managed Attributes to Your Classes"
+        ],
+        [
+            "/python-fractions/",
+            "Representing Rational Numbers With Python Fractions"
+        ],
+        [
+            "/django-hosting-on-heroku/",
+            "Hosting a Django Project on Heroku"
+        ],
+        [
+            "/what-can-i-do-with-python/",
+            "What Can I Do With Python?"
+        ],
+        [
+            "/python-packages/",
+            "Python Packages: Five Real Python Favorites"
+        ],
+        [
+            "/courses/host-your-django-project-on-heroku/",
+            "Host Your Django Project on Heroku (Course)"
+        ],
+        [
+            "/courses/build-neural-network-python-ai/",
+            "Building a Neural Network & Making Predictions With Python AI (Course)"
+        ],
+        [
+            "/courses/exploring-python-math-module/",
+            "Exploring the Python math Module (Course)"
+        ],
+        [
+            "/courses/pandas-dataframe-working-with-data/",
+            "The Pandas DataFrame: Working With Data Efficiently (Course)"
+        ],
+        [
+            "/courses/set-up-django-project/",
+            "How to Set Up a Django Project (Course)"
+        ],
+        [
+            "/courses/web-scraping-beautiful-soup/",
+            "Web Scraping With Beautiful Soup and Python (Course)"
+        ]
+    ]
+}

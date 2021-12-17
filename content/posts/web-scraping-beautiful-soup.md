@@ -8,4 +8,4 @@ Authors: Martin Breuss
 Summary: Real Python Article
 Url: https://realpython.com//courses/web-scraping-beautiful-soup/
 
-Read or watch my tutorial over at _Real Python_.
+Watch my video course on _Real Python_.

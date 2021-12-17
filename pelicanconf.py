@@ -16,14 +16,16 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 # Blogroll
-LINKS = (('Pelican', 'https://getpelican.com/'),
-         ('Python.org', 'https://www.python.org/'),
-         ('Jinja2', 'https://palletsprojects.com/p/jinja/'),
-         ('You can modify those links in your config file', '#'),)
+LINKS = (('collections', 'https://www.datamat.in'),
+         ('spacerest', 'https://sadieparker.net'),)
 
 # Social widget
-SOCIAL = (('You can add links in your config file', '#'),
-          ('Another social link', '#'),)
+SOCIAL = (('GitHub', 'https://github.com/martin-martin/'),
+          ('StackOverflow', 'https://stackoverflow.com/users/5717580/martin-martin'),
+          ('Medium', 'https://medium.com/@martin.breuss'),
+          ('Real Python', 'https://realpython.com/team/mbreuss/'),
+          ('Twitter', 'https://twitter.com/martinbreuss'),
+          ('LinkedIN', 'https://www.linkedin.com/in/martinbreuss/'),)
 
 DEFAULT_PAGINATION = False
 
