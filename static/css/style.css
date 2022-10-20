@@ -2,18 +2,19 @@ body {
   font-family: monospace;
   font-size: 100%;
   background-color: white;
-  color: #111;
-  width: 80%;
+  color: red;
+  /* color: #111; */
+  /* width: 80%;
   min-width: 400px;
   min-height: 200px;
   padding: 1em;
   margin: 5% 10%;
   border: thin solid gray;
   border-radius: 5px;
-  display: block;
+  display: block; */
 }
 
-a:link    { color: blue; text-decoration: none;      }
+/* a:link    { color: blue; text-decoration: none;      }
 a:hover   { color: blue; text-decoration: underline; }
 a:visited { color: blue;                             }
 
@@ -35,5 +36,5 @@ h6 a { color: inherit !important }
 
 pre {
     margin: 2em 1em 2em 4em;
-}
+} */
 

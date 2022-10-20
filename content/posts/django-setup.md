@@ -6,6 +6,6 @@ Slug: django-setup
 Tags: python
 Authors: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com//django-setup/
+Url: https://realpython.com/django-setup/
 
 Read my tutorial on _Real Python_.

@@ -40,7 +40,7 @@ def build_posts(info):
         if type == "authored":
             for article in content_list:
                 course = False
-                url = "https://realpython.com/" + article[0]
+                url = "https://realpython.com" + article[0]
                 title = article[1]
                 if title.endswith("(Course)"):
                     course = True
@@ -54,7 +54,7 @@ Modified: 2010-12-05 19:30
 Slug: {Path(fn_string).stem}
 Tags: python
 Authors: Martin Breuss
-Summary: Real Python Article
+Summary: Real Python {'Video Course' if course else 'Article'}
 Url: {url}
 
 {'Watch' if course else 'Read'} my {'video course' if course else 'tutorial'} on _Real Python_."""

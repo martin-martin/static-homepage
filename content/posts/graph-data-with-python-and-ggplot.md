@@ -5,7 +5,7 @@ Modified: 2010-12-05 19:30
 Slug: graph-data-with-python-and-ggplot
 Tags: python
 Authors: Martin Breuss
-Summary: Real Python Article
-Url: https://realpython.com//courses/graph-data-with-python-and-ggplot/
+Summary: Real Python Video Course
+Url: https://realpython.com/courses/graph-data-with-python-and-ggplot/
 
 Watch my video course on _Real Python_.

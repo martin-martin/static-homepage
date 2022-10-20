@@ -6,6 +6,6 @@ Slug: beautiful-soup-web-scraper-python
 Tags: python
 Authors: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com//beautiful-soup-web-scraper-python/
+Url: https://realpython.com/beautiful-soup-web-scraper-python/
 
 Read my tutorial on _Real Python_.

@@ -6,6 +6,6 @@ Slug: python-web-applications
 Tags: python
 Authors: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com//python-web-applications/
+Url: https://realpython.com/python-web-applications/
 
 Read my tutorial on _Real Python_.

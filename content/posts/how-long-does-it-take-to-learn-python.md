@@ -6,6 +6,6 @@ Slug: how-long-does-it-take-to-learn-python
 Tags: python
 Authors: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com//how-long-does-it-take-to-learn-python/
+Url: https://realpython.com/how-long-does-it-take-to-learn-python/
 
 Read my tutorial on _Real Python_.

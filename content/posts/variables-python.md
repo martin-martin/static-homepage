@@ -5,7 +5,7 @@ Modified: 2010-12-05 19:30
 Slug: variables-python
 Tags: python
 Authors: Martin Breuss
-Summary: Real Python Article
-Url: https://realpython.com//courses/variables-python/
+Summary: Real Python Video Course
+Url: https://realpython.com/courses/variables-python/
 
 Watch my video course on _Real Python_.
