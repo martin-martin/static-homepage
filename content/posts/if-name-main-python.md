@@ -1,11 +1,13 @@
 Title: What Does if __name__ == "__main__" Do in Python?
 Category: Python
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
+Date: Sep 21, 2022
 Slug: if-name-main-python
 Tags: python
-Authors: Martin Breuss
+Author: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com/if-name-main-python/
 
-Read my tutorial on _Real Python_.
+In this tutorial, you'll learn all about Python's name-main idiom. You'll learn what it does in Python, how it works, when to use it, when to avoid it, and how to refer to it.
+
+Read the full tutorial on Real Python:
+
+[What Does if __name__ == "__main__" Do in Python?](https://realpython.com/if-name-main-python/)

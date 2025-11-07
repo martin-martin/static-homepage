@@ -1,192 +1,195 @@
+
 <!DOCTYPE html>
 <html lang="en">
-
 <head>
-    <meta charset="utf-8">
-  <meta http-equiv="Content-Type" content="text/html" charset="UTF-8" />
-  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
-
-
-  <title>How to Set Up a Django Project (Course)</title>
-
-
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
   <meta name="HandheldFriendly" content="True" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <meta name="referrer" content="origin" />
-  <meta name="generator" content="Pelican" />
-<link href="/https://realpython.com//courses/set-up-django-project/" rel="canonical" />
-  <!-- Feed -->
+  <meta name="robots" content="" />
 
-  <link href="/theme/css/style.css" type="text/css" rel="stylesheet" />
+  <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
 
-  <!-- Code highlight color scheme -->
-      <link href="/theme/css/code_blocks/github.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="/theme/stylesheet/style.min.css">
 
 
-  <!-- Custom fonts -->
-  <link href='https://fonts.googleapis.com/css?family=Montserrat:400,300' rel='stylesheet' type='text/css' />
-  <link href="https://fonts.googleapis.com/css?family=Lato" rel="stylesheet" type="text/css" />
-
-  <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-  <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
-  <!--[if lt IE 9]>
-    <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-    <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-  <![endif]-->
+    <link id="pygments-light-theme" rel="stylesheet" type="text/css"
+          href="/theme/pygments/github.min.css">
 
 
 
-    <meta name="description" content="Real Python Article">
-
-    <meta name="author" content="Martin Breuss">
-
-    <meta name="tags" content="python">
+  <link rel="stylesheet" type="text/css" href="/theme/font-awesome/css/fontawesome.css">
+  <link rel="stylesheet" type="text/css" href="/theme/font-awesome/css/brands.css">
+  <link rel="stylesheet" type="text/css" href="/theme/font-awesome/css/solid.css">
 
 
 
 
-<!-- Open Graph -->
-<meta prefix="og: http://ogp.me/ns#" property="og:site_name" content="mb/home"/>
-<meta prefix="og: http://ogp.me/ns#" property="og:title" content="How to Set Up a Django Project (Course)"/>
-<meta prefix="og: http://ogp.me/ns#" property="og:description" content="Real Python Article"/>
-<meta prefix="og: http://ogp.me/ns#" property="og:locale" content="en_US"/>
-<meta prefix="og: http://ogp.me/ns#" property="og:url" content="/https://realpython.com//courses/set-up-django-project/"/>
-<meta prefix="og: http://ogp.me/ns#" property="og:type" content="article"/>
-<meta prefix="og: http://ogp.me/ns#" property="article:published_time" content="2010-12-03 10:20:00+01:00"/>
-<meta prefix="og: http://ogp.me/ns#" property="article:modified_time" content="2010-12-05 19:30:00+01:00"/>
-<meta prefix="og: http://ogp.me/ns#" property="article:author" content="/author/martin-breuss.html">
-<meta prefix="og: http://ogp.me/ns#" property="article:section" content="Python"/>
-<meta prefix="og: http://ogp.me/ns#" property="article:tag" content="python"/>
-<meta prefix="og: http://ogp.me/ns#" property="og:image" content="/theme/images/post-bg.jpg">
 
-<!-- Twitter Card -->
-    <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:site" content="@martinbreuss">
-    <meta name="twitter:title" content="How to Set Up a Django Project (Course)">
-    <meta name="twitter:url" content="/https://realpython.com//courses/set-up-django-project/">
 
-        <meta name="twitter:image:src" content="/theme/images/post-bg.jpg">
 
-      <meta name="twitter:description" content="Real Python Article">
+
+
+
+
+
+ 
+
+<meta name="author" content="Martin Breuss" />
+<meta name="description" content="Real Python Video Course" />
+<meta name="keywords" content="python">
+
+
+  <meta property="og:site_name" content="mb/home"/>
+  <meta property="og:title" content="How to Set Up a Django Project (Course)"/>
+  <meta property="og:description" content="Real Python Video Course"/>
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:url" content="/https://realpython.com/courses/set-up-django-project/"/>
+  <meta property="og:type" content="article"/>
+  <meta property="article:published_time" content="2010-12-03 10:20:00+01:00"/>
+  <meta property="article:modified_time" content="2010-12-05 19:30:00+01:00"/>
+  <meta property="article:author" content="/author/martin-breuss.html">
+  <meta property="article:section" content="Python"/>
+  <meta property="article:tag" content="python"/>
+  <meta property="og:image" content="">
+
+  <title>mb/home &ndash; How to Set Up a Django Project (Course)</title>
+
+
+</head>
+<body class="light-theme">
+
+<aside>
+  <div>
+    <a href="/">
+      <img src="/theme/img/profile.png" alt="" title="">
+    </a>
+
+    <h1>
+      <a href="/"></a>
+    </h1>
+
+
+
+    <nav>
+      <ul class="list">
+
+
+            <li>
+              <a target="_self"
+                 href="/pages/about.html#about">
+                About Me
+              </a>
+            </li>
+            <li>
+              <a target="_self"
+                 href="/pages/contact.html#contact">
+                contact
+              </a>
+            </li>
+
+          <li>
+            <a target="_self" href="https://www.datamat.in" >collections</a>
+          </li>
+          <li>
+            <a target="_self" href="https://sadieparker.net" >spacerest</a>
+          </li>
+      </ul>
+    </nav>
+
+    <ul class="social">
+      <li>
+        <a class="sc-GitHub"
+           href="https://github.com/martin-martin/"
+           target="_blank">
+          <i class="fa-brands fa-GitHub"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-StackOverflow"
+           href="https://stackoverflow.com/users/5717580/martin-martin"
+           target="_blank">
+          <i class="fa-brands fa-StackOverflow"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-Medium"
+           href="https://medium.com/@martin.breuss"
+           target="_blank">
+          <i class="fa-brands fa-Medium"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-Real Python"
+           href="https://realpython.com/team/mbreuss/"
+           target="_blank">
+          <i class="fa-brands fa-Real Python"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-Twitter"
+           href="https://twitter.com/martinbreuss"
+           target="_blank">
+          <i class="fa-brands fa-Twitter"></i>
+        </a>
+      </li>
+      <li>
+        <a class="sc-LinkedIN"
+           href="https://www.linkedin.com/in/martinbreuss/"
+           target="_blank">
+          <i class="fa-brands fa-LinkedIN"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+</aside>
+  <main>
+
+
+<article class="single">
+  <header>
+      
+    <h1 id="set-up-django-project">How to Set Up a Django Project (Course)</h1>
+    <p>
+      Posted on Fri 03 December 2010 in <a href="/category/python.html">Python</a>
+
+    </p>
+  </header>
+
+
+  <div>
+    <p>Watch my video course on <em>Real Python</em>.</p>
+  </div>
+  <div class="tag-cloud">
+    <p>
+      <a href="/tag/python.html">python</a>
+    </p>
+  </div>
+
+
+
+
+
+
+
+</article>
+
+<footer>
+<p>&copy;  </p>
+<p>
+Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a href="http://bit.ly/flex-pelican" target="_blank">Flex</a> theme
+</p></footer>  </main>
 
 <script type="application/ld+json">
 {
-  "@context": "http://schema.org",
-  "@type": "Article",
-  "name": "How to Set Up a Django Project (Course)",
-  "headline": "How to Set Up a Django Project (Course)",
-  "datePublished": "2010-12-03 10:20:00+01:00",
-  "dateModified": "2010-12-05 19:30:00+01:00",
-  "author": {
-    "@type": "Person",
-    "name": "Martin Breuss",
-    "url": "/author/martin-breuss.html"
-  },
-  "image": "/theme/images/post-bg.jpg",
-  "url": "/https://realpython.com//courses/set-up-django-project/",
-  "description": "Real Python Article"
+  "@context" : "http://schema.org",
+  "@type" : "Blog",
+  "name": " mb/home ",
+  "url" : "",
+  "image": "",
+  "description": ""
 }
 </script>
-</head>
-<!-- TODO : Body class -->
-<body class="home-template">
-
-<nav id="menu">
-  <a class="close-button">Close</a>
-  <div class="nav-wrapper">
-    <p class="nav-label">Menu</p>
-    <ul>
-
-
-    </ul>
-  </div>
-</nav>
-    <!-- Progressbar -->
-    <div class="progress-container">
-        <span class="progress-bar"></span>
-    </div>
-
-    <!-- Page Header -->
-    <!-- Set your background image for this header on the line below. -->
-    <header id="post-header" >
-      <div class="inner">
-        <nav id="navigation">
-            <span id="home-button" class="nav-button">
-                <a class="home-button" href="/" title="Home"><i class="ic ic-arrow-left"></i> Home</a>
-            </span>
-          <span id="menu-button" class="nav-button">
-            <a class="menu-button"><i class="ic ic-menu"></i> Menu</a>
-          </span>
-        </nav>
-        <h1 class="post-title">How to Set Up a Django Project (Course)</h1>
-        <!-- TODO : Proper class for headline -->
-        <span class="post-meta">
-                <a href="/author/martin-breuss.html">Martin Breuss</a>
-            | <time datetime="Fri 03 December 2010">Fri 03 December 2010</time>
-        </span>
-        <!-- TODO : Modified check -->
-            <span class="post-meta"> | Updated on Sun 05 December 2010</span>
-      </div>
-    </header>
-
-  <section id="wrapper">
-    <a class="hidden-close"></a>
-
-    <!-- Post content -->
-    <main class="content" role="main">
-        <article class="post">
-        <div class="inner">
-            <section class="post-content">
-                <p>Watch my video course on <em>Real Python</em>.</p>
-            </section>
-
-            <section class="post-info">
-                <div class="post-share">
-                    <a class="twitter" href="https://twitter.com/share?text=How to Set Up a Django Project (Course)&amp;url=/https://realpython.com//courses/set-up-django-project/" onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;">
-                    <i class="ic ic-twitter"></i><span class="hidden">Twitter</span>
-                    </a>
-                    <a class="facebook" href="https://www.facebook.com/sharer/sharer.php?u=/https://realpython.com//courses/set-up-django-project/" onclick="window.open(this.href, 'facebook-share','width=580,height=296');return false;">
-                    <i class="ic ic-facebook"></i><span class="hidden">Facebook</span>
-                    </a>
-                    <a class="googleplus" href="https://plus.google.com/share?url=/https://realpython.com//courses/set-up-django-project/" onclick="window.open(this.href, 'google-plus-share', 'width=490,height=530');return false;">
-                    <i class="ic ic-googleplus"></i><span class="hidden">Google+</span>
-                    </a>
-                    <div class="clear"></div>
-                </div>
-
-                <aside class="post-tags">
-<a href="/tag/python.html">python</a>                </aside>
-
-                <div class="clear"></div>
-
-
-                </section>
-
-
-                <aside class="post-nav">
-                    <div class="clear"></div>
-                </aside>
-
-            </div>
-        </article>
-    </main>
-      <!-- TODO : Body class -->
-    <div id="body-class" style="display: none;" class=""></div>
-
-    <footer id="footer">
-      <div class="inner">
-        <section class="credits">
-
-
-          <span class="credits-theme">Theme <a href="https://github.com/arulrajnet/attila" rel="nofollow">Attila</a></span>
-          <span class="credits-software">Published with <a href="https://github.com/getpelican/pelican" rel="nofollow">Pelican</a></span>
-        </section>
-      </div>
-    </footer>
-  </section>
-
-  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
-  <script type="text/javascript" src="/theme/js/script.js"></script>
-
 </body>
 </html>

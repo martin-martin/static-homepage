@@ -1,11 +1,13 @@
 Title: Asynchronous Tasks With Django and Celery
 Category: Python
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
+Date: Aug 01, 2022
 Slug: asynchronous-tasks-with-django-and-celery
 Tags: python
-Authors: Martin Breuss
+Author: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com/asynchronous-tasks-with-django-and-celery/
 
-Read my tutorial on _Real Python_.
+In this tutorial, you'll learn how to integrate Celery and Django using Redis as a message broker. You'll refactor the synchronous email sending functionality of an existing Django app into an asynchronous task that you'll run with Celery instead.
+
+Read the full tutorial on Real Python:
+
+[Asynchronous Tasks With Django and Celery](https://realpython.com/asynchronous-tasks-with-django-and-celery/)

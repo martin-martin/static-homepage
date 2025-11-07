@@ -1,11 +1,13 @@
 Title: Build and Handle POST Requests in Django – Part 3
 Category: Python
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
+Date: Jan 10, 2022
 Slug: django-social-post-3
 Tags: python
-Authors: Martin Breuss
+Author: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com/django-social-post-3/
 
-Read my tutorial on _Real Python_.
+In the third part of this tutorial series, you'll continue to build out a social network with Django. You'll make it possible to follow and unfollow user profiles, create buttons to handle POST requests, and set up Django models for your users' text-based content.
+
+Read the full tutorial on Real Python:
+
+[Build and Handle POST Requests in Django – Part 3](https://realpython.com/django-social-post-3/)

@@ -1,11 +1,13 @@
 Title: Build and Submit HTML Forms With Django – Part 4
 Category: Python
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
+Date: Jan 12, 2022
 Slug: django-social-forms-4
 Tags: python
-Authors: Martin Breuss
+Author: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com/django-social-forms-4/
 
-Read my tutorial on _Real Python_.
+In the final part of this tutorial series, you'll continue to build out a social network with Django. You'll wrap up by working with Django forms, learning how to display helpful error messages, setting up dynamic URLs in your app, and more.
+
+Read the full tutorial on Real Python:
+
+[Build and Submit HTML Forms With Django – Part 4](https://realpython.com/django-social-forms-4/)

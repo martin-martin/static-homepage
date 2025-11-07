@@ -1,11 +1,13 @@
 Title: Raining Outside? Build a Weather CLI App With Python
 Category: Python
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
+Date: Jan 26, 2022
 Slug: build-a-python-weather-app-cli
 Tags: python
-Authors: Martin Breuss
+Author: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com/build-a-python-weather-app-cli/
 
-Read my tutorial on _Real Python_.
+In this tutorial, you'll write a nicely formatted Python CLI app that displays information about the current weather in any city you provide the name for.
+
+Read the full tutorial on Real Python:
+
+[Raining Outside? Build a Weather CLI App With Python](https://realpython.com/build-a-python-weather-app-cli/)

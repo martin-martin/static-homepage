@@ -1,11 +1,13 @@
 Title: Build a Social Network With Django – Part 1
 Category: Python
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
+Date: Jan 03, 2022
 Slug: django-social-network-1
 Tags: python
-Authors: Martin Breuss
+Author: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com/django-social-network-1/
 
-Read my tutorial on _Real Python_.
+In this four-part tutorial series, you'll build a social network with Django to showcase in your portfolio. You'll learn about relationships between Django models and how to use forms so that users can interact with your app. You'll also make your site look good by using the Bulma CSS framework.
+
+Read the full tutorial on Real Python:
+
+[Build a Social Network With Django – Part 1](https://realpython.com/django-social-network-1/)

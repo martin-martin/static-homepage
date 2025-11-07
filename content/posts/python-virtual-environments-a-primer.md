@@ -1,11 +1,13 @@
 Title: Python Virtual Environments: A Primer
 Category: Python
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
+Date: Apr 13, 2022
 Slug: python-virtual-environments-a-primer
 Tags: python
-Authors: Martin Breuss
+Author: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com/python-virtual-environments-a-primer/
 
-Read my tutorial on _Real Python_.
+In this tutorial, you'll learn how to use a Python virtual environment to manage your Python projects. You'll also dive deep into the structure of virtual environments built using the venv module, as well as the reasoning behind using virtual environments.
+
+Read the full tutorial on Real Python:
+
+[Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)

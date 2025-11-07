@@ -1,11 +1,13 @@
 Title: ChatterBot: Build a Chatbot With Python
 Category: Python
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
+Date: Oct 12, 2022
 Slug: build-a-chatbot-python-chatterbot
 Tags: python
-Authors: Martin Breuss
+Author: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com/build-a-chatbot-python-chatterbot/
 
-Read my tutorial on _Real Python_.
+Chatbots can help to provide real-time customer support and are a valuable asset in many industries. When you understand the basics of the ChatterBot library, you can build and train a self-learning chatbot with just a few lines of Python code.
+
+Read the full tutorial on Real Python:
+
+[ChatterBot: Build a Chatbot With Python](https://realpython.com/build-a-chatbot-python-chatterbot/)

@@ -1,11 +1,13 @@
 Title: How to Check if a Python String Contains a Substring
 Category: Python
-Date: 2010-12-03 10:20
-Modified: 2010-12-05 19:30
+Date: Aug 22, 2022
 Slug: python-string-contains-substring
 Tags: python
-Authors: Martin Breuss
+Author: Martin Breuss
 Summary: Real Python Article
-Url: https://realpython.com/python-string-contains-substring/
 
-Read my tutorial on _Real Python_.
+In this tutorial, you'll learn the best way to check whether a Python string contains a substring. You'll also learn about idiomatic ways to inspect the substring further, match substrings with conditions using regular expressions, and search for substrings in pandas.
+
+Read the full tutorial on Real Python:
+
+[How to Check if a Python String Contains a Substring](https://realpython.com/python-string-contains-substring/)
