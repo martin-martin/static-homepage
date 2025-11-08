@@ -4,7 +4,7 @@ date = "2024-01-01T00:00:00Z"
 draft = false
 description = "an overpowered list of books."
 technologies = "React | CSS"
-image = "/images/bookshelf.png"
+cover = "/images/screenshots/bookshelf.png"
 codeLink = "https://github.com/martin-martin/react-bookshelf"
 infoLink = "https://github.com/udacity/reactnd-project-myreads-starter"
 +++

@@ -4,7 +4,7 @@ date = "2024-01-01T00:00:00Z"
 draft = false
 description = "querying the Pearson API for word information."
 technologies = "Python | Pearson API"
-image = "/images/love.png"
+cover = "/images/screenshots/love.png"
 codeLink = "https://github.com/martin-martin/define/blob/master/define_me.py"
 infoLink = "https://github.com/martin-martin/define"
 +++

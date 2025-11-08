@@ -4,7 +4,7 @@ date = "2024-01-01T00:00:00Z"
 draft = false
 description = "an early try of making an online resume."
 technologies = "HTML | JavaScript | CSS"
-image = "/images/resume.png"
+cover = "/images/screenshots/resume.png"
 liveLink = "https://martin-martin.github.io/FEND_resume/"
 codeLink = "https://github.com/martin-martin/FEND_resume"
 +++

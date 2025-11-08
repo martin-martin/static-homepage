@@ -4,7 +4,7 @@ date = "2024-01-01T00:00:00Z"
 draft = false
 description = "what we speak is surprisingly unique. a hommage to language creativity."
 technologies = "Python | NLTK"
-image = "/images/doubles.png"
+cover = "/images/screenshots/doubles.png"
 codeLink = "https://github.com/martin-martin/sentence_doubles"
 infoLink = "https://medium.com/@martin.breuss/7-language-creativity-defe56084896"
 +++

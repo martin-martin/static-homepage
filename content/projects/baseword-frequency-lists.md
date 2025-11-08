@@ -4,7 +4,7 @@ date = "2024-01-01T00:00:00Z"
 draft = false
 description = "generated baseword-frequency lists for DE, EN, ES and FR."
 technologies = "Python"
-image = "/images/bw_freq.png"
+cover = "/images/screenshots/bw_freq.png"
 liveLink = "https://github.com/martin-martin/bw_frequency_lists/tree/master"
 codeLink = "https://github.com/martin-martin/lemma_getta"
 +++

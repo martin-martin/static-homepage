@@ -4,7 +4,7 @@ date = "2024-01-01T00:00:00Z"
 draft = false
 description = "a mock landing page for a fictional app that I seriously lived and developed."
 technologies = "Balsamiq | Ninjamock | HTML"
-image = "/images/less.png"
+cover = "/images/screenshots/less.png"
 liveLink = "https://martin-martin.github.io/less_landing/"
 codeLink = "https://github.com/martin-martin/less_landing"
 +++

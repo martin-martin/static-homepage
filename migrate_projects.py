@@ -39,10 +39,12 @@ def migrate_projects():
         }
         
         # Add image path (adjust path for Hugo static directory)
+        # Terminal theme uses 'cover' parameter, not 'image'
         if 'image' in project and project['image']:
-            # Convert static/screenshots/ to /images/
-            image_path = project['image'].replace('static/screenshots/', '/images/')
-            frontmatter['image'] = image_path
+            # Convert static/screenshots/ to /images/screenshots/
+            # Hugo serves files from static/ at the root, so static/images/screenshots/file.png -> /images/screenshots/file.png
+            image_path = project['image'].replace('static/screenshots/', '/images/screenshots/')
+            frontmatter['cover'] = image_path
         
         # Add links
         if project.get('live_link'):

@@ -4,7 +4,7 @@ date = "2024-01-01T00:00:00Z"
 draft = false
 description = "an attempt to assemble all the online courses I did from 2014-2015. in color."
 technologies = "HTML | Python | CSS"
-image = "/images/moocs.png"
+cover = "/images/screenshots/moocs.png"
 liveLink = "https://martin-martin.github.io/my-moocs/"
 codeLink = "https://github.com/martin-martin/my-moocs"
 +++

@@ -4,7 +4,7 @@ date = "2024-01-01T00:00:00Z"
 draft = false
 description = "an assembly of my learning steps and materials from a Udacity Nanodegree."
 technologies = "Google App Engine | HTML | JavaScript | CSS"
-image = "/images/ipnd.png"
+cover = "/images/screenshots/ipnd.png"
 liveLink = "https://ipnd-all.appspot.com/"
 codeLink = "https://github.com/martin-martin/IPND_final_project"
 +++

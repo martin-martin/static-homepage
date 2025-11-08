@@ -4,7 +4,7 @@ date = "2024-01-01T00:00:00Z"
 draft = false
 description = "implementing a small version of TensorFlow with the help of Udacity, to better understand backpropagation and differentiable graphs."
 technologies = "Python"
-image = "/images/miniflow.png"
+cover = "/images/screenshots/miniflow.png"
 codeLink = "https://github.com/martin-martin/MiniFlow/blob/master/MiniFlow.ipynb"
 +++
 
