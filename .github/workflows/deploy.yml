@@ -34,6 +34,10 @@ jobs:
         with:
           python-version: '3.11'
 
+      - name: Install Python dependencies
+        run: |
+          pip install -e .
+
       - name: Fetch Real Python articles
         run: |
           python3 fetch_rp_articles.py

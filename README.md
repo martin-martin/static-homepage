@@ -15,6 +15,7 @@ A static site built with Hugo and the Terminal theme, featuring a portfolio, blo
 
 - Hugo (extended version)
 - Python 3.11+
+- pip (for installing Python dependencies)
 
 ### Local Development
 
@@ -23,15 +24,19 @@ A static site built with Hugo and the Terminal theme, featuring a portfolio, blo
    ```bash
    git submodule update --init --recursive
    ```
-3. Generate content:
+3. Install Python dependencies:
+   ```bash
+   pip install -e .
+   ```
+4. Generate content:
    ```bash
    python3 fetch_rp_articles.py  # Generate Real Python articles
    ```
-4. Run Hugo server:
+5. Run Hugo server:
    ```bash
    hugo server
    ```
-5. Visit `http://localhost:1313`
+6. Visit `http://localhost:1313`
 
 ### Building
 
@@ -48,11 +53,19 @@ The built site will be in the `public/` directory.
 - `content/external/` - Real Python articles (generated from `articles.json`)
 - `content/about.md` - About page
 - `content/contact.md` - Contact page
-- `static/` - Static assets (images, CSS, etc.)
+- `static/` - Static assets (images, favicon, etc.)
 
 ## Deployment
 
 The site is automatically deployed to GitHub Pages via GitHub Actions when you push to the `main` branch.
+
+### Automated Article Updates
+
+Real Python articles are automatically updated:
+- **On every push**: The deployment workflow runs `fetch_rp_articles.py` before building
+- **Daily at 2 AM UTC**: A scheduled workflow checks for new articles and commits them if found
+
+You can also manually trigger the update workflow from the GitHub Actions tab.
 
 ### Custom Domain
 
@@ -90,15 +103,20 @@ python3 migrate_projects.py
 
 ### Updating Real Python Articles
 
-Update `articles.json` with new articles, then regenerate:
+Articles are automatically fetched from Real Python's RSS feed. The script:
+- Fetches articles from `https://realpython.com/atom.xml`
+- Filters for articles authored by "Martin Breuss"
+- Only creates markdown files for new articles (skips existing ones)
+- Uses real publication dates from the RSS feed
+
+To manually update articles:
 
 ```bash
 python3 fetch_rp_articles.py
 ```
 
-## Migration Scripts
+## Content Generation Scripts
 
-- `migrate_posts.py` - Migrates Pelican blog posts to Hugo format
 - `migrate_projects.py` - Converts projects.json to Hugo markdown files
 - `fetch_rp_articles.py` - Generates Hugo markdown from Real Python articles
 
@@ -108,5 +126,5 @@ Using the [Terminal](https://github.com/panr/hugo-theme-terminal) theme by Panr.
 
 ## License
 
-martinmade 2018
+martinmade 2025
 

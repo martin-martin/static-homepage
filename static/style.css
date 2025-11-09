@@ -1,0 +1,16 @@
+/* Custom styles to override theme defaults */
+
+/* Active menu item styling */
+.navigation-menu a.active {
+  color: var(--accent);
+  font-weight: bold;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+}
+
+/* Ensure active styling persists on hover */
+.navigation-menu a.active:hover {
+  color: var(--accent);
+}
+

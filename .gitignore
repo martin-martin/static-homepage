@@ -13,9 +13,8 @@ venv/
 env/
 ENV/
 
-# Pelican (old)
+# Build output
 output/
-*.pyc
 
 # IDE
 .vscode/
