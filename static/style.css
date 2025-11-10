@@ -1,17 +1,22 @@
 /* Custom styles to override theme defaults */
 
-/* Active menu item styling */
-.navigation-menu a.active {
-  color: var(--accent);
-  font-weight: bold;
+/* Active menu item styling - increased specificity to override theme */
+.navigation-menu a.active,
+.navigation-menu__inner a.active,
+.menu__dropdown a.active {
+  color: var(--accent) !important;
+  font-weight: bold !important;
   text-decoration: underline;
   text-decoration-thickness: 2px;
   text-underline-offset: 4px;
 }
 
 /* Ensure active styling persists on hover */
-.navigation-menu a.active:hover {
-  color: var(--accent);
+.navigation-menu a.active:hover,
+.navigation-menu__inner a.active:hover,
+.menu__dropdown a.active:hover {
+  color: var(--accent) !important;
+  font-weight: bold !important;
 }
 
 /* Logo SVG color inheritance fix */
