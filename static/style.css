@@ -14,3 +14,37 @@
   color: var(--accent);
 }
 
+/* Logo SVG color inheritance fix */
+.logo-slash-svg {
+  color: inherit; /* Explicitly inherit color from parent .logo-slash */
+}
+
+/* Large Logo Variant (for home page) */
+.logo-large {
+  height: 240px;
+  gap: 12px;
+  margin: 40px auto;
+}
+
+.logo-large .logo-colon {
+  padding: 0 16px;
+  gap: 40px;
+}
+
+.logo-large .logo-colon-left {
+  padding-left: 80px;
+}
+
+.logo-large .logo-colon-right {
+  padding-right: 80px;
+}
+
+.logo-large .logo-dot {
+  width: 24px;
+  height: 24px;
+}
+
+.logo-large .logo-slash {
+  width: 80px;
+}
+
