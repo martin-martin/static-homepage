@@ -161,3 +161,46 @@
   margin: 40px 0;
 }
 
+/* HR elements with arrow brackets - developing in all directions */
+hr {
+  position: relative;
+  margin: 20px 0;
+}
+
+hr::before {
+  content: "<";
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--accent);
+  font-weight: bold;
+  font-size: 1.2em;
+  line-height: 1;
+  z-index: 1;
+}
+
+hr::after {
+  content: ">";
+  position: absolute;
+  right: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  color: var(--accent);
+  font-weight: bold;
+  font-size: 1.2em;
+  line-height: 1;
+  z-index: 1;
+}
+
+/* Special cases - ensure arrows match HR color */
+.footnotes hr::before,
+.footnotes hr::after {
+  color: color-mix(in srgb, var(--foreground) 50%, transparent);
+}
+
+.pagination__title hr::before,
+.pagination__title hr::after {
+  color: var(--accent);
+}
+
