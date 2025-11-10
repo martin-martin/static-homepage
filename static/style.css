@@ -118,3 +118,28 @@
   width: 80px;
 }
 
+/* Hover effects for logo slashes */
+.logo:has(.logo-slash-forward:hover) .logo-slash-forward {
+  color: #fb923c; /* Orange */
+  filter: brightness(1.2);
+  transform: scale(1.05);
+}
+
+.logo:has(.logo-slash-backward:hover) .logo-slash-backward {
+  color: #22c55e; /* Bright happy green */
+  filter: brightness(1.2);
+  transform: scale(1.05);
+}
+
+/* Highlight left colon (orange) when forward slashes are hovered */
+.logo:has(.logo-slash-forward:hover) .logo-colon-left .logo-dot {
+  background-color: #fb923c; /* Orange */
+  transform: scale(1.1);
+}
+
+/* Highlight right colon (green) when backward slashes are hovered */
+.logo:has(.logo-slash-backward:hover) .logo-colon-right .logo-dot {
+  background-color: #22c55e; /* Bright happy green */
+  transform: scale(1.1);
+}
+

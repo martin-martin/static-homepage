@@ -14,28 +14,28 @@ draft = false
   <!-- Left Outer Slash (Projects) - Forward slash -->
   <a href="/projects" class="logo-slash logo-slash-forward logo-slash-left-outer" aria-label="Projects">
     <svg class="logo-slash-svg" width="20" height="60" viewBox="0 0 20 60" preserveAspectRatio="none">
-      <line x1="0" y1="60" x2="20" y2="0" stroke="currentColor" stroke-width="8" stroke-linecap="round"/>
+      <line x1="0" y1="60" x2="20" y2="0" stroke="currentColor" stroke-width="8" stroke-linecap="round" fill="none"/>
     </svg>
   </a>
   
   <!-- Left Inner Slash (Blog) - Backward slash, part of V -->
   <a href="/blog" class="logo-slash logo-slash-backward logo-slash-left-inner" aria-label="Blog">
     <svg class="logo-slash-svg" width="20" height="60" viewBox="0 0 20 60" preserveAspectRatio="none">
-      <line x1="0" y1="0" x2="20" y2="60" stroke="currentColor" stroke-width="8" stroke-linecap="round"/>
+      <line x1="0" y1="0" x2="20" y2="60" stroke="currentColor" stroke-width="8" stroke-linecap="round" fill="none"/>
     </svg>
   </a>
   
   <!-- Right Inner Slash (Projects) - Forward slash, part of V -->
   <a href="/projects" class="logo-slash logo-slash-forward logo-slash-right-inner" aria-label="Projects">
     <svg class="logo-slash-svg" width="20" height="60" viewBox="0 0 20 60" preserveAspectRatio="none">
-      <line x1="0" y1="60" x2="20" y2="0" stroke="currentColor" stroke-width="8" stroke-linecap="round"/>
+      <line x1="0" y1="60" x2="20" y2="0" stroke="currentColor" stroke-width="8" stroke-linecap="round" fill="none"/>
     </svg>
   </a>
   
   <!-- Right Outer Slash (Blog) - Backward slash -->
   <a href="/blog" class="logo-slash logo-slash-backward logo-slash-right-outer" aria-label="Blog">
     <svg class="logo-slash-svg" width="20" height="60" viewBox="0 0 20 60" preserveAspectRatio="none">
-      <line x1="0" y1="0" x2="20" y2="60" stroke="currentColor" stroke-width="8" stroke-linecap="round"/>
+      <line x1="0" y1="0" x2="20" y2="60" stroke="currentColor" stroke-width="8" stroke-linecap="round" fill="none"/>
     </svg>
   </a>
   
