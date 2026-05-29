@@ -1,6 +1,6 @@
 +++
 title = "topology math"
-date = "2024-01-01T00:00:00Z"
+date = "2017-04-20T23:08:14Z"
 draft = false
 description = "retracing basic GIS topology operations by myself in Python. maybe making modules."
 technologies = "Python"

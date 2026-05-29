@@ -1,6 +1,6 @@
 +++
 title = "stanford events scraper"
-date = "2024-01-01T00:00:00Z"
+date = "2017-03-28T01:24:14Z"
 draft = false
 description = "Automatically sift through the great daily events at Stanford University to find free AI and ML related on-campus lectures."
 technologies = "Python"

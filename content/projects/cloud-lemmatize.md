@@ -1,6 +1,6 @@
 +++
 title = "cloud lemmatize"
-date = "2024-01-01T00:00:00Z"
+date = "2017-02-11T06:37:44Z"
 draft = false
 description = "using a pipeline and an API to find POS and lemmas for a ton of words in some languages."
 technologies = "Python | meaningcloud API"

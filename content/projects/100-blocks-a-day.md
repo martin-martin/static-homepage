@@ -1,6 +1,6 @@
 +++
 title = "100 blocks a day"
-date = "2024-01-01T00:00:00Z"
+date = "2017-01-28T21:41:37Z"
 draft = false
 description = "a JS tool to visually structure your day (for more happiness and productivity)"
 technologies = "JavaScript | HTML | CSS"

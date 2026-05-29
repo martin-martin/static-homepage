@@ -1,6 +1,6 @@
 +++
 title = "xyayz"
-date = "2024-01-01T00:00:00Z"
+date = "2017-01-01T00:00:00Z"
 draft = false
 description = "this is going to be my fun website with lots of nooks and crannies and stuff to discover :) - currently under heavy construction efforts."
 technologies = "React | HTML | JavaScript | CSS"

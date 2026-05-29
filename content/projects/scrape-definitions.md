@@ -1,6 +1,6 @@
 +++
 title = "scrape definitions"
-date = "2024-01-01T00:00:00Z"
+date = "2017-02-25T05:39:11Z"
 draft = false
 description = "Ruby and Python code that can be included in a webapp to fetch the definitions of a word from wordreference.com"
 technologies = "Ruby | Nokogiri | Python | BeautifulSoup | RegExp"

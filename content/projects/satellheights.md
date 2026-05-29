@@ -1,6 +1,6 @@
 +++
 title = "satellheights"
-date = "2024-01-01T00:00:00Z"
+date = "2017-05-04T19:49:38Z"
 draft = false
 description = "visually comparing the (astounding) distance between normal satellites and GPS satellites."
 technologies = "d3 | JavaScript"

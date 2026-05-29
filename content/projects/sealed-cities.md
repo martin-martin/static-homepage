@@ -1,6 +1,6 @@
 +++
 title = "sealed cities"
-date = "2024-01-01T00:00:00Z"
+date = "2016-03-17T01:13:35Z"
 draft = false
 description = "an interactive map with information on soil sealing in European cities. and colors."
 technologies = "d3 | JavaScript | CSS"

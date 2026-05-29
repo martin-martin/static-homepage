@@ -1,6 +1,6 @@
 +++
 title = "sentence snowflakes"
-date = "2024-01-01T00:00:00Z"
+date = "2017-01-06T03:37:33Z"
 draft = false
 description = "what we speak is surprisingly unique. a hommage to language creativity."
 technologies = "Python | NLTK"

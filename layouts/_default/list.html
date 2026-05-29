@@ -1,0 +1,68 @@
+{{ define "main" }}
+  {{ with .Content }}
+    <div class="index-content">
+      {{ . }}
+    </div>
+  {{ end }}
+  <div class="posts">
+    {{ range .Paginator.Pages }}
+      {{- $external := .Params.externalUrl -}}
+      <article class="post on-list">
+        <h2 class="post-title">
+          {{ if $external }}
+            <a href="{{ $external }}" target="_blank" rel="noopener">{{ .Title | markdownify }}</a>
+          {{ else }}
+            <a href="{{ .Permalink }}">{{ .Title | markdownify }}</a>
+          {{ end }}
+        </h2>
+
+        <div class="post-meta">
+          {{- if .Date -}}
+            <time class="post-date">{{- partial "post-date" . -}}</time>
+          {{- end -}}
+          {{- with .Params.source -}}
+            <span class="post-source post-source--{{ . | urlize }}">{{ . }}</span>
+          {{- end -}}
+          {{- with .Params.rating -}}
+            <span class="post-rating" title="{{ with $.Params.ratingCount }}{{ . }} ratings on Real Python{{ else }}Real Python rating{{ end }}">★ {{ . }}</span>
+          {{- end -}}
+          {{- with .Params.skillLevel -}}
+            <span class="post-level">{{ . }}</span>
+          {{- end -}}
+        </div>
+
+        {{ if .Params.tags }}
+          <span class="post-tags">
+            {{ range .Params.tags }}
+            #<a href="{{ (urlize (printf "tags/%s/" . )) | absLangURL }}">{{- . -}}</a>&nbsp;
+            {{ end }}
+          </span>
+        {{ end }}
+
+        {{ partial "cover.html" . }}
+
+        <div class="post-content">
+          {{ if .Params.showFullContent }}
+            {{ .Content }}
+          {{ else if .Description }}
+            <p>{{ .Description | markdownify }}</p>
+          {{ else }}
+            {{ .Summary }}
+          {{ end }}
+        </div>
+
+        {{ if not .Params.showFullContent }}
+          <div>
+            {{ if $external }}
+              <a class="read-more button inline" href="{{ $external }}" target="_blank" rel="noopener">[Read on {{ .Params.source | default "site" }} &rarr;]</a>
+            {{ else }}
+              <a class="read-more button inline" href="{{ .RelPermalink }}">[{{ $.Site.Params.ReadMore }}]</a>
+            {{ end }}
+          </div>
+        {{ end }}
+      </article>
+    {{ end }}
+
+    {{ partial "pagination.html" . }}
+  </div>
+{{ end }}

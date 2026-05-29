@@ -1,6 +1,6 @@
 +++
 title = "pokéblog"
-date = "2024-01-01T00:00:00Z"
+date = "2017-07-21T09:57:50Z"
 draft = false
 description = "a travel blog for great adventures of little people in a big world."
 technologies = "React | CSS"

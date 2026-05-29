@@ -1,6 +1,6 @@
 +++
 title = "Evil Corp analysis"
-date = "2024-01-01T00:00:00Z"
+date = "2016-04-21T17:39:08Z"
 draft = false
 description = "using machine learning to identify persons of interest that might be involved in the Enron fraud case."
 technologies = "Python | sklearn"

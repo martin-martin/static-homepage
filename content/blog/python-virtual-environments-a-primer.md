@@ -1,15 +1,17 @@
 +++
 title = "Python Virtual Environments: A Primer"
-date = "2022-04-13T00:00:00"
-tags = ["python"]
-categories = ["Python"]
-description = "Real Python Article"
-author = "Martin Breuss"
+date = "2024-11-30T14:00:00Z"
 draft = false
+description = "Create isolated project setups on all platforms, and gain a deep understanding of Python's virtual environments created with the venv module."
+externalUrl = "https://realpython.com/python-virtual-environments-a-primer/"
+author = "Martin Breuss"
+source = "Real Python"
+rating = 4.9
+ratingCount = 144
+tags = ["python", "real-python"]
+categories = ["Tutorial"]
 +++
 
-In this tutorial, you'll learn how to use a Python virtual environment to manage your Python projects. You'll also dive deep into the structure of virtual environments built using the venv module, as well as the reasoning behind using virtual environments.
+Create isolated project setups on all platforms, and gain a deep understanding of Python's virtual environments created with the venv module.
 
-Read the full tutorial on Real Python:
-
-[Python Virtual Environments: A Primer](https://realpython.com/python-virtual-environments-a-primer/)
+Read the full tutorial on [Real Python](https://realpython.com/python-virtual-environments-a-primer/).

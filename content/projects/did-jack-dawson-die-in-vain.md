@@ -1,6 +1,6 @@
 +++
 title = "did Jack Dawson die in vain?"
-date = "2024-01-01T00:00:00Z"
+date = "2016-01-05T23:45:17Z"
 draft = false
 description = "analyzing the Titanic dataset for factors influencing survival (a.k.a. double-checking the accuracy of the movie)."
 technologies = "Python | pandas | numpy | matplotlib"

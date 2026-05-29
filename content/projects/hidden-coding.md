@@ -1,6 +1,6 @@
 +++
 title = "hidden coding"
-date = "2024-01-01T00:00:00Z"
+date = "2017-01-24T05:27:02Z"
 draft = false
 description = "sometimes you code all day but there's nothing to show for it. a little diary."
 technologies = "HTML | CSS"

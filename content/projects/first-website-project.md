@@ -1,6 +1,6 @@
 +++
 title = "first website project"
-date = "2024-01-01T00:00:00Z"
+date = "2015-08-01T08:49:07Z"
 draft = false
 description = "an assembly of my learning steps and materials from a Udacity Nanodegree."
 technologies = "Google App Engine | HTML | JavaScript | CSS"

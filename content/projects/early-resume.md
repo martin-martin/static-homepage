@@ -1,6 +1,6 @@
 +++
 title = "early resume"
-date = "2024-01-01T00:00:00Z"
+date = "2016-03-06T22:38:02Z"
 draft = false
 description = "an early try of making an online resume."
 technologies = "HTML | JavaScript | CSS"

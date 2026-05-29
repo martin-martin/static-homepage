@@ -46,13 +46,17 @@ draft = false
   </div>
 </div>
 
-<-- Developing into all directions -->
+<p style="text-align:center;font-style:italic;opacity:0.8;">Developing into all directions</p>
 
-I like analyzing and visualizing data, building web pages, and playing with artificial learning algorithms and applications
+I'm **Martin Breuss** — **Head of Content Strategy at [Real Python](https://realpython.com/team/mbreuss/)**, where I lead Python developer education for a community of **more than a million developers**.
 
-I like languages, experiences, systems, and intelligence
+I own what we teach across written tutorials and video courses: setting the roadmap, guiding a team of instructional designers, editors, and authors — and still crafting and reviewing our highest-stakes pieces myself (lately, the fast-moving AI ones). Along the way I've published [30+ tutorials and 29 video courses](/blog), and I build with AI as part of how I think, write, and ship.
 
-If you want to tell me something, or think that I should work for you, then <a href="/contact">contact me</a> :)
+A background in education, all the way down: coding mentor, code reviewer, curriculum developer, bootcamp instructor, instructional designer.
+
+I like languages, experiences, systems, and intelligence — and I think a lot about how teaching has to change now that AI sits between learners and almost everything they want to learn.
+
+If you think I should work with you, then <a href="/contact">let's talk</a> :)
 
 ---
 

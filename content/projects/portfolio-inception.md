@@ -1,6 +1,6 @@
 +++
 title = "portfolio inception"
-date = "2024-01-01T00:00:00Z"
+date = "2017-09-09T15:10:40Z"
 draft = false
 description = "this page. click for a secret link to the front page."
 technologies = "Flask | CSS | JavaScript"

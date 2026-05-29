@@ -1,6 +1,6 @@
 +++
 title = "painting lane lines"
-date = "2024-01-01T00:00:00Z"
+date = "2016-10-13T14:24:48Z"
 draft = false
 description = "recognizing lane lines in images and videos. painting lines everywhere."
 technologies = "Python | OpenCV"

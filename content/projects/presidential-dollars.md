@@ -1,6 +1,6 @@
 +++
 title = "presidential dollars"
-date = "2024-01-01T00:00:00Z"
+date = "2016-03-01T04:48:50Z"
 draft = false
 description = "analyzing the individual contributions to the US presidential elections and playing with ggplot2, the implementation of the poetic 'Grammar of Graphics'."
 technologies = "R"

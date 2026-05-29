@@ -1,6 +1,6 @@
 +++
 title = "flight oracle"
-date = "2024-01-01T00:00:00Z"
+date = "2017-01-04T17:47:51Z"
 draft = false
 description = "creating meaningless graphs that look meaningful while waiting for a plane."
 technologies = "Python | NLTK"
