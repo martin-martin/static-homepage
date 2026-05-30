@@ -268,7 +268,7 @@ def build_courses():
             "source": "Video Course",
             "rating": c["rating"],
             "skillLevel": c["skill_level"],
-            "tags": ["python", "video-course"],
+            "tags": ["python", "video-course", "real-python"],
             "categories": ["Video Course"],
         }
         body = [desc, "", f"Watch the full course on [Real Python]({url})."]

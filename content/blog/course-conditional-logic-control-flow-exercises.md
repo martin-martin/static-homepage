@@ -8,7 +8,7 @@ author = "Martin Breuss"
 source = "Video Course"
 rating = 5.0
 skillLevel = "basics"
-tags = ["python", "video-course"]
+tags = ["python", "video-course", "real-python"]
 categories = ["Video Course"]
 +++
 
