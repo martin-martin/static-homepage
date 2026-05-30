@@ -54,7 +54,7 @@
         {{ if not .Params.showFullContent }}
           <div>
             {{ if $external }}
-              <a class="read-more button inline" href="{{ $external }}" target="_blank" rel="noopener">[Read on {{ .Params.source | default "site" }} &rarr;]</a>
+              <a class="read-more button inline" href="{{ $external }}" target="_blank" rel="noopener">[{{ if in .Params.categories "Video Course" }}Watch{{ else }}Read{{ end }} on {{ if in $external "realpython.com" }}Real Python{{ else }}{{ .Params.source | default "site" }}{{ end }} &rarr;]</a>
             {{ else }}
               <a class="read-more button inline" href="{{ .RelPermalink }}">[{{ $.Site.Params.ReadMore }}]</a>
             {{ end }}
