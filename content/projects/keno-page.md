@@ -1,6 +1,6 @@
 +++
 title = "keno page"
-date = "2024-01-01T00:00:00Z"
+date = "2017-01-18T02:15:13Z"
 draft = false
 description = "a mini tribute to Keno Don Rosa."
 technologies = "Bootstrap | CSS"

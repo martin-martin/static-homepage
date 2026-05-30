@@ -1,6 +1,6 @@
 +++
 title = "word frequenctrees"
-date = "2024-01-01T00:00:00Z"
+date = "2016-12-19T20:26:27Z"
 draft = false
 description = "input some text to get a word frequency analysis with a pretty image."
 technologies = "JavaScript"

@@ -1,6 +1,6 @@
 +++
 title = "brain body"
-date = "2024-01-01T00:00:00Z"
+date = "2017-01-23T00:33:00Z"
 draft = false
 description = "predicting an animals body weight from the weight of its brain."
 technologies = "Python | sklearn"

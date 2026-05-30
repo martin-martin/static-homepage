@@ -1,6 +1,6 @@
 +++
 title = "clean up game"
-date = "2024-01-01T00:00:00Z"
+date = "2017-04-06T21:15:15Z"
 draft = false
 description = "messy computer paints some squares, human has to walk over them to discolor them again."
 technologies = "Python | JavaScript"

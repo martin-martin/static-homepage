@@ -1,6 +1,6 @@
 +++
 title = "Don sí"
-date = "2024-01-01T00:00:00Z"
+date = "2016-12-29T20:05:31Z"
 draft = false
 description = "analyzing a free-form literary corpus (call it a novel) for word frequencies."
 technologies = "Python | NLTK"

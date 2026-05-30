@@ -1,6 +1,6 @@
 +++
 title = "hidden wishes"
-date = "2024-01-01T00:00:00Z"
+date = "2017-01-16T05:52:28Z"
 draft = false
 description = "munged through novels to see whether they wish me a happy birthday!"
 technologies = "Python | NLTK | RegExp"

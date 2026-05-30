@@ -1,6 +1,6 @@
 +++
 title = "tiny flowing tensors"
-date = "2024-01-01T00:00:00Z"
+date = "2017-01-27T04:30:34Z"
 draft = false
 description = "implementing a small version of TensorFlow with the help of Udacity, to better understand backpropagation and differentiable graphs."
 technologies = "Python"

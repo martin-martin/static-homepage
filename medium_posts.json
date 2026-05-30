@@ -1,0 +1,62 @@
+[
+  {
+    "title": "All you need for working with Python 3 on a Mac",
+    "url": "https://medium.com/@martin.breuss/all-you-need-for-working-with-python-3-on-a-mac-c811ac094869",
+    "date": "2018-09-08T18:50:16Z",
+    "description": "To clear up any confusion about a functioning setup to start working with Python 3 on a fresh Mac — here’s a quick (minimal) guide. DO #1: download and install Python 3.x.x Go to the official website and download Python…"
+  },
+  {
+    "title": "Django WebDev: Keeping secrets with Environment Variables",
+    "url": "https://medium.com/@martin.breuss/django-webdev-keeping-secrets-with-environment-variables-78def8813cf2",
+    "date": "2018-06-04T11:59:48Z",
+    "description": "When working in Web Development with e.g. APIs of other services, you will often need to include Authentication to access those services. These can come in the form of e.g. passwords, API keys or secrets. We ❤ Version…"
+  },
+  {
+    "title": "Virtual Environments for Python",
+    "url": "https://medium.com/@martin.breuss/virtual-environments-for-python-cc8f18a48c6c",
+    "date": "2018-05-31T11:33:09Z",
+    "description": "With a bustling activity as a developer, when grinding projects feels like a morning jog, it is easy for something to go out of hand: dependencies . What are dependencies? When building python projects and with the rich…"
+  },
+  {
+    "title": "Remembering the forgetting curve",
+    "url": "https://medium.com/@martin.breuss/remembering-the-forgetting-curve-d88ad082502e",
+    "date": "2018-05-21T11:27:57Z",
+    "description": "🔔 — Ebbinghaus wants to send you push notifications — 🔔 Everyone knows this existential angst when realizing that {xyz}, which we learned only {xyz} time units ago, is already blanked off our mind. How do some people…"
+  },
+  {
+    "title": "Customising Sublime Text for Python Web Development",
+    "url": "https://medium.com/@martin.breuss/customizing-sublime-text-for-python-web-development-de31873d2d06",
+    "date": "2018-05-12T13:45:31Z",
+    "description": "Sublime Text’s rich package ecosystem makes it possible to fine-tune the text editor specifically to what you are using it for. Some of the packages are universally helpful, others, such as syntax checking, are specific…"
+  },
+  {
+    "title": "Finding a useful Dictionary API",
+    "url": "https://medium.com/@martin.breuss/finding-a-useful-dictionary-api-52084a01503d",
+    "date": "2017-02-09T03:00:14Z",
+    "description": "I thought that would be easy, but they are difficult to spot For the past days, I have been searching for Dictionary APIs that would provide definitions for a few different languages. With this text, I hope to make the…"
+  },
+  {
+    "title": "Playing “Chinese Whispers” with computers can be great fun!",
+    "url": "https://blog.chatbotslife.com/playing-chinese-whispers-with-computers-can-be-great-fun-2c8072da7b3b",
+    "date": "2017-02-08T18:43:26Z",
+    "description": "On a page called Translation Party you can enter a sentence and then watch how Machine Translation plays English-Japanese ping-pong . So I gave it a spin: After staggering through the hallway of the retirement home…"
+  },
+  {
+    "title": "How I hear Humans when I SeeBotsChat",
+    "url": "https://blog.chatbotslife.com/see-bots-chat-hear-humans-talk-6579b203b763",
+    "date": "2017-01-08T08:47:32Z",
+    "description": "What two Cleverbots can tell us about human conversation Someone hooked up two Google Homes powered by Cleverbot’s API and made them ceaselessly talk to each other. Where? On twitch…"
+  },
+  {
+    "title": "Going GUI",
+    "url": "https://medium.com/@martin.breuss/going-gui-48a61d9db91c",
+    "date": "2017-01-07T13:58:19Z",
+    "description": "I wrote a tiny search engine (it looks for search terms on pre-defined webpages), and a friend told me that What is this? I can’t show this to anyone. No one who doesn’t program will know what to do with that. Can’t you…"
+  },
+  {
+    "title": "#7:⚗ — Language Creativity",
+    "url": "https://medium.com/@martin.breuss/7-language-creativity-defe56084896",
+    "date": "2017-01-06T15:03:53Z",
+    "description": "How we speak; so unique How often do we write the same sentence multiple times? Inspired by Chomsky’s dismissal* of an approach another linguist to assess the probability of sentences to occur, I built a small project…"
+  }
+]

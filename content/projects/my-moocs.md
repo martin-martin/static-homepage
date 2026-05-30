@@ -1,6 +1,6 @@
 +++
 title = "my MOOCs"
-date = "2024-01-01T00:00:00Z"
+date = "2015-12-30T18:32:28Z"
 draft = false
 description = "an attempt to assemble all the online courses I did from 2014-2015. in color."
 technologies = "HTML | Python | CSS"

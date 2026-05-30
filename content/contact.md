@@ -4,6 +4,11 @@ draft = false
 +++
 
 <div class="social-links" style="margin-top: 30px; display: flex; gap: 20px; flex-wrap: wrap; align-items: center;">
+  <a href="https://realpython.com/team/mbreuss/" target="_blank" rel="noopener noreferrer" aria-label="Real Python profile" title="Real Python profile" style="display: inline-flex; align-items: center; text-decoration: none;">
+    <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="color: var(--accent);">
+      <path d="M5 13.18v4L12 21l7-3.82v-4L12 17l-7-3.82zM12 3 1 9l11 6 9-4.91V17h2V9L12 3z"/>
+    </svg>
+  </a>
   <a href="mailto:breuss.martin@gmail.com" aria-label="Email" style="display: inline-flex; align-items: center; text-decoration: none;">
     <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor" style="color: var(--accent);">
       <path d="M20 4H4c-1.1 0-1.99.9-1.99 2L2 18c0 1.1.9 2 2 2h16c1.1 0 2-.9 2-2V6c0-1.1-.9-2-2-2zm0 4l-8 5-8-5V6l8 5 8-5v2z"/>

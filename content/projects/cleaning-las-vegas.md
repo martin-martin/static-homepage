@@ -1,6 +1,6 @@
 +++
 title = "cleaning Las Vegas"
-date = "2024-01-01T00:00:00Z"
+date = "2016-01-14T14:17:57Z"
 draft = false
 description = "investigating and improving the OpenStreetMap data on Las Vegas."
 technologies = "Python | XML | OSM"

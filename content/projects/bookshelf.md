@@ -1,6 +1,6 @@
 +++
 title = "bookshelf"
-date = "2024-01-01T00:00:00Z"
+date = "2017-08-25T17:39:53Z"
 draft = false
 description = "an overpowered list of books."
 technologies = "React | CSS"

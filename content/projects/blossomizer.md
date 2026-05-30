@@ -1,6 +1,6 @@
 +++
 title = "blossomizer"
-date = "2024-01-01T00:00:00Z"
+date = "2016-12-17T13:27:41Z"
 draft = false
 description = "insert two nouns to create a 'crash blossom' - playing with a specialty of the English language."
 technologies = "HTML | JavaScript | CSS"

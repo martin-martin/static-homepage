@@ -1,6 +1,6 @@
 +++
 title = "scrape song info"
-date = "2024-01-01T00:00:00Z"
+date = "2017-02-24T04:46:58Z"
 draft = false
 description = "Ruby and Python code to fetch song info from genius.com"
 technologies = "Ruby | Nokogiri | Python | BeautifulSoup | RegExp"

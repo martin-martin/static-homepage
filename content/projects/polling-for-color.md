@@ -1,6 +1,6 @@
 +++
 title = "polling for color"
-date = "2024-01-01T00:00:00Z"
+date = "2015-07-22T19:56:08Z"
 draft = false
 description = "a practice on persistent data storage on GAE, spiced up with text emojis and rainbows. my favorite one is  ¯\\_(ツ)_/¯"
 technologies = "Google App Engine | HTML | JavaScript | CSS"

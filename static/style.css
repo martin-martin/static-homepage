@@ -204,3 +204,50 @@ hr::after {
   color: var(--accent);
 }
 
+/* ---- Blog hub: source badges, ratings, skill level ---- */
+.post-meta .post-source,
+.post-meta .post-level {
+  display: inline-block;
+  margin-left: 10px;
+  padding: 1px 8px;
+  border: 1px solid color-mix(in srgb, var(--accent) 60%, transparent);
+  border-radius: var(--radius, 4px);
+  font-size: 0.75em;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  vertical-align: middle;
+}
+
+.post-meta .post-source--real-python {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.post-meta .post-source--video-course {
+  color: var(--background);
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.post-meta .post-source--video-course::before {
+  content: "\25B6  "; /* play triangle */
+}
+
+.post-meta .post-source--medium {
+  color: color-mix(in srgb, var(--foreground) 70%, transparent);
+  border-color: color-mix(in srgb, var(--foreground) 40%, transparent);
+}
+
+.post-meta .post-level {
+  border-style: dashed;
+  text-transform: none;
+  color: color-mix(in srgb, var(--foreground) 70%, transparent);
+}
+
+.post-meta .post-rating {
+  margin-left: 10px;
+  font-size: 0.85em;
+  color: var(--accent);
+  white-space: nowrap;
+}
+

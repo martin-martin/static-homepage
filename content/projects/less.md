@@ -1,6 +1,6 @@
 +++
 title = "LESS"
-date = "2024-01-01T00:00:00Z"
+date = "2016-07-26T16:06:58Z"
 draft = false
 description = "a mock landing page for a fictional app that I seriously lived and developed."
 technologies = "Balsamiq | Ninjamock | HTML"

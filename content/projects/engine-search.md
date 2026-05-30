@@ -1,6 +1,6 @@
 +++
 title = "engine search"
-date = "2024-01-01T00:00:00Z"
+date = "2017-01-06T20:12:59Z"
 draft = false
 description = "finally a way to find lost engines! now with a GUI. (a minimal search engine)"
 technologies = "Python | Tkinter"

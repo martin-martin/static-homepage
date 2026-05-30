@@ -1,0 +1,1166 @@
+{
+  "https://realpython.com/add-python-to-path/": {
+    "author": "Ian Currie",
+    "title": "How to Add Python to PATH",
+    "date": "2022-09-26T14:00:00Z",
+    "description": "In this tutorial, you'll learn about how to add Python, or any other program, to your PATH environment variable. You'll be covering the procedure in Windows, macOS, and Linux and find out what PATH is and why it's important."
+  },
+  "https://realpython.com/advanced-visual-studio-code-python/": {
+    "author": "Anthony Shaw",
+    "title": "Advanced Visual Studio Code for Python Developers",
+    "date": "2021-11-10T14:00:00Z",
+    "description": "In this tutorial, you'll learn how you can configure, extend, and optimize Visual Studio Code for a more effective and productive Python development environment. By digging into this customizable code editor and IDE, you'll put yourself on track to be a VS Code power user."
+  },
+  "https://realpython.com/ai-coding-agents-guide/": {
+    "author": "Ben Batman",
+    "title": "AI Coding Agents Guide: A Map of the Four Workflow Types",
+    "date": "2026-04-29T14:00:00Z",
+    "description": "AI coding agents come in four types: IDE, terminal, PR, and cloud. Learn how each workflow fits into modern Python development."
+  },
+  "https://realpython.com/asynchronous-tasks-with-django-and-celery/": {
+    "author": "Martin Breuss",
+    "title": "Asynchronous Tasks With Django and Celery",
+    "date": "2024-12-08T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to integrate Celery and Django using Redis as a message broker. You'll refactor the synchronous email sending functionality of an existing Django app into an asynchronous task that you'll run with Celery instead."
+  },
+  "https://realpython.com/beautiful-soup-web-scraper-python/": {
+    "author": "Martin Breuss",
+    "title": "Beautiful Soup: Build a Web Scraper With Python",
+    "date": "2024-12-01T14:00:00Z",
+    "description": "In this tutorial, you'll walk through the main steps of the web scraping process. You'll learn how to write a script that uses Python's Requests library to scrape data from a website. You'll also use Beautiful Soup to extract the specific pieces of information you're interested in."
+  },
+  "https://realpython.com/build-a-chatbot-python-chatterbot/": {
+    "author": "Martin Breuss",
+    "title": "ChatterBot: Build a Chatbot With Python",
+    "date": "2026-05-06T14:00:00Z",
+    "description": "Build a Python chatbot with the ChatterBot library. Clean real conversation data, train on custom datasets, and add local AI with Ollama."
+  },
+  "https://realpython.com/build-a-content-aggregator-python/": {
+    "author": "Ricky White",
+    "title": "Build a Content Aggregator in Python",
+    "date": "2021-11-03T14:00:00Z",
+    "description": "In this project-based tutorial, you'll build a content aggregator from scratch with Python and Django. Using custom management commands, feedparser, and django-apscheduler, you'll set up an app to periodically parse RSS feeds for Python podcasts and display the latest episodes to your users."
+  },
+  "https://realpython.com/build-a-python-weather-app-cli/": {
+    "author": "Martin Breuss",
+    "title": "Raining Outside? Build a Weather CLI App With Python",
+    "date": "2022-01-26T14:00:00Z",
+    "description": "In this tutorial, you'll write a nicely formatted Python CLI app that displays information about the current weather in any city you provide the name for."
+  },
+  "https://realpython.com/build-llm-rag-chatbot-with-langchain/": {
+    "author": "Harrison Hoffman",
+    "title": "Build an LLM RAG Chatbot With LangChain",
+    "date": "2024-03-06T14:00:00Z",
+    "description": "Large language models (LLMs) have taken the world by storm, demonstrating unprecedented capabilities in natural language tasks. In this step-by-step tutorial, you'll leverage LLMs to build your own retrieval-augmented generation (RAG) chatbot using synthetic data with LangChain and Neo4j."
+  },
+  "https://realpython.com/build-python-learning-roadmap/": {
+    "author": "Dorothy Phoenix",
+    "title": "Python Learning Roadmap: How to Create Your Own Plan",
+    "date": "2026-01-07T14:00:00Z",
+    "description": "Assess your Python level, set clear goals, and create a 90-day study plan. Includes a downloadable roadmap worksheet and curated learning resources."
+  },
+  "https://realpython.com/chatgpt-coding-mentor-python/": {
+    "author": "Martin Breuss",
+    "title": "Use ChatGPT to Learn Python Programming",
+    "date": "2023-05-17T14:00:00Z",
+    "description": "Learn Python with ChatGPT! Get instant help, pair program, fix errors, and explore alternate solutions to grow your Python coding skills."
+  },
+  "https://realpython.com/chatgpt-unit-tests-python/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Write Unit Tests for Your Python Code With ChatGPT",
+    "date": "2024-04-22T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to use ChatGPT to generate tests for your Python code. You'll use the chat to create doctest, unittest, and pytest tests for your code."
+  },
+  "https://realpython.com/chromadb-vector-database/": {
+    "author": "Harrison Hoffman",
+    "title": "Embeddings and Vector Databases With ChromaDB",
+    "date": "2023-11-15T14:00:00Z",
+    "description": "Vector databases are a crucial component of many NLP applications. This tutorial will give you hands-on experience with ChromaDB, an open-source vector database that's quickly gaining traction. Along the way, you'll learn what's needed to understand vector databases with practical examples."
+  },
+  "https://realpython.com/dependency-management-python-poetry/": {
+    "author": "Philipp Acsany",
+    "title": "Dependency Management With Python Poetry",
+    "date": "2024-12-15T14:00:00Z",
+    "description": "Learn how Python Poetry will help you start new projects, maintain existing ones, and master dependency management."
+  },
+  "https://realpython.com/django-flashcards-app/": {
+    "author": "Philipp Acsany",
+    "title": "Build a Flashcards App With Django",
+    "date": "2022-07-18T14:00:00Z",
+    "description": "Create your own flashcards app to help you to learn a new language.\nIn this step-by-step project, you'll replicate a spaced repetition system with the Django web framework.\nIf you want to learn a new topic while sharpening your Django and Python skills, this tutorial is the perfect match for you!"
+  },
+  "https://realpython.com/django-hosting-on-heroku/": {
+    "author": "Bartosz Zaczyński",
+    "title": "Hosting a Django Project on Heroku",
+    "date": "2021-09-29T14:00:00Z",
+    "description": "In this step-by-step project, you'll learn about hosting Django projects in the cloud using Heroku, which is the favorite cloud platform provider of many startups and developers."
+  },
+  "https://realpython.com/django-setup/": {
+    "author": "Martin Breuss",
+    "title": "How to Create a Django Project",
+    "date": "2026-01-14T14:00:00Z",
+    "description": "Learn how to create a Django project and app in clear, guided steps. Use it as a reference for any future Django project and tutorial you'll work on."
+  },
+  "https://realpython.com/django-social-forms-4/": {
+    "author": "Martin Breuss",
+    "title": "Build and Submit HTML Forms With Django – Part 4",
+    "date": "2022-01-12T14:00:00Z",
+    "description": "In the final part of this tutorial series, you'll continue to build out a social network with Django. You'll wrap up by working with Django forms, learning how to display helpful error messages, setting up dynamic URLs in your app, and more."
+  },
+  "https://realpython.com/django-social-front-end-2/": {
+    "author": "Martin Breuss",
+    "title": "Build a Django Front End With Bulma – Part 2",
+    "date": "2022-01-05T14:00:00Z",
+    "description": "In the second part of this tutorial series, you'll continue to build out a social network with Django. You'll learn how to set up routing, views, and templates for your app. You'll also apply CSS styling to the Django front end by using the Bulma framework to improve your app's user interface."
+  },
+  "https://realpython.com/django-social-network-1/": {
+    "author": "Martin Breuss",
+    "title": "Build a Social Network With Django – Part 1",
+    "date": "2022-01-03T14:00:00Z",
+    "description": "In this four-part tutorial series, you'll build a social network with Django to showcase in your portfolio. You'll learn about relationships between Django models and how to use forms so that users can interact with your app. You'll also make your site look good by using the Bulma CSS framework."
+  },
+  "https://realpython.com/django-social-post-3/": {
+    "author": "Martin Breuss",
+    "title": "Build and Handle POST Requests in Django – Part 3",
+    "date": "2022-01-10T14:00:00Z",
+    "description": "In the third part of this tutorial series, you'll continue to build out a social network with Django. You'll make it possible to follow and unfollow user profiles, create buttons to handle POST requests, and set up Django models for your users' text-based content."
+  },
+  "https://realpython.com/django-template-custom-tags-filters/": {
+    "author": "Christopher Trudeau",
+    "title": "Django Templates: Implementing Custom Tags and Filters",
+    "date": "2021-10-27T14:00:00Z",
+    "description": "Django templates have many built-in tags and filters to render content, but they may not meet all your needs. This tutorial covers how to write Django custom template tags and filters, including simple tags, inclusion tags, block tags, and different types of filters."
+  },
+  "https://realpython.com/django-todo-lists/": {
+    "author": "Charles de Villiers",
+    "title": "Manage Your To-Do Lists Using Python and Django",
+    "date": "2022-03-02T14:00:00Z",
+    "description": "Use Django to build a to-do list manager app. This step-by-step project will teach you how to use Django's class-based views to build a powerful app while dramatically reducing your development time."
+  },
+  "https://realpython.com/face-recognition-with-python/": {
+    "author": "Kyle Stratis",
+    "title": "Build Your Own Face Recognition Tool With Python",
+    "date": "2023-04-24T14:00:00Z",
+    "description": "In this tutorial, you'll build your own face recognition command-line tool with Python. You'll learn how to use face detection to identify faces in an image and label them using face recognition. With this knowledge, you can create your own face recognition tool from start to finish!"
+  },
+  "https://realpython.com/fastapi-jinja2-template/": {
+    "author": "Philipp Acsany",
+    "title": "How to Serve a Website With FastAPI Using HTML and Jinja2",
+    "date": "2025-11-17T14:00:00Z",
+    "description": "Use FastAPI to render Jinja2 templates and serve dynamic sites with HTML, CSS, and JavaScript, then add a color picker that copies hex codes."
+  },
+  "https://realpython.com/fastapi-python-web-apis/": {
+    "author": "Philipp Acsany",
+    "title": "A Close Look at a FastAPI Example Application",
+    "date": "2025-11-03T14:00:00Z",
+    "description": "Set up an example FastAPI app, add path and query parameters, and handle CRUD operations with Pydantic for clean, validated endpoints."
+  },
+  "https://realpython.com/flask-connexion-rest-api/": {
+    "author": "Philipp Acsany",
+    "title": "Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 1",
+    "date": "2022-11-14T14:00:00Z",
+    "description": "In this three-part tutorial series, you'll create a RESTful API from scratch to keep track of people and notes using the Flask web framework. You'll also test your API with Swagger UI API documentation. In part one, you'll build the foundation of your note-keeping app."
+  },
+  "https://realpython.com/flask-connexion-rest-api-part-2/": {
+    "author": "Philipp Acsany",
+    "title": "Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 2",
+    "date": "2022-11-16T14:00:00Z",
+    "description": "In this three-part tutorial series, you'll create a RESTful API from scratch to keep track of people and notes using the Flask web framework. You'll also test your API with Swagger UI API documentation. In part two, you'll implement a SQLite database to store your data permanently."
+  },
+  "https://realpython.com/flask-connexion-rest-api-part-3/": {
+    "author": "Philipp Acsany",
+    "title": "Python REST APIs With Flask, Connexion, and SQLAlchemy – Part 3",
+    "date": "2022-11-21T14:00:00Z",
+    "description": "In this three-part tutorial series, you'll create a RESTful API from scratch to keep track of people and notes using the Flask web framework. You'll also test your API with Swagger UI API documentation. In part three, you'll use SQLAlchemy to provide the functionality to add notes to a person."
+  },
+  "https://realpython.com/generate-images-with-dalle-openai-api/": {
+    "author": "Martin Breuss",
+    "title": "Generate Images With DALL·E and the OpenAI API",
+    "date": "2024-09-02T14:00:00Z",
+    "description": "Learn to use the OpenAI Python library to create images with DALL·E, a state-of-the-art latent diffusion model. In this tutorial, you'll explore creating images and generating image variations. You'll also interact with DALL·E using API calls and incorporate this functionality into your Python scripts."
+  },
+  "https://realpython.com/get-started-with-fastapi/": {
+    "author": "Philipp Acsany",
+    "title": "Get Started With FastAPI",
+    "date": "2025-09-22T14:00:00Z",
+    "description": "FastAPI is the first choice when creating APIs in Python. Explore FastAPI code examples and get the most frequent questions about FastAPI answered."
+  },
+  "https://realpython.com/github-copilot-python/": {
+    "author": "Bartosz Zaczyński",
+    "title": "GitHub Copilot: Fly With Python at the Speed of Thought",
+    "date": "2022-08-15T14:00:00Z",
+    "description": "In this tutorial, you'll get your hands dirty with GitHub Copilot, a virtual pair programmer powered by artificial intelligence trained on billions of lines of code. You'll explore several practical use cases in Python for this amazing productivity tool."
+  },
+  "https://realpython.com/how-long-does-it-take-to-learn-python/": {
+    "author": "Martin Breuss",
+    "title": "How Long Does It Take to Learn Python?",
+    "date": "2026-01-28T14:00:00Z",
+    "description": "This guide breaks down how long it takes to learn Python with realistic timelines, weekly study plans, and strategies to speed up your progress."
+  },
+  "https://realpython.com/how-to-make-programming-videos/": {
+    "author": "Philipp Acsany",
+    "title": "How to Make Engaging Programming Videos",
+    "date": "2023-06-14T14:00:00Z",
+    "description": "Creating a screencast can be a great way for you to share your knowledge and help fellow developers on your team. However, not all video tutorials are equally effective. In this tutorial, you'll learn how to make engaging and informative programming videos that will impress your peers."
+  },
+  "https://realpython.com/how-to-split-a-python-list-into-chunks/": {
+    "author": "Bartosz Zaczyński",
+    "title": "How to Split a Python List or Iterable Into Chunks",
+    "date": "2025-01-27T14:00:00Z",
+    "description": "This tutorial provides an overview of how to split a Python list into chunks. You'll learn several ways of breaking a list into smaller pieces using the standard library, third-party libraries, and custom code. You'll also split multidimensional data to synthesize an image with parallel processing."
+  },
+  "https://realpython.com/if-name-main-python/": {
+    "author": "Martin Breuss",
+    "title": "What Does if __name__ == \"__main__\" Do in Python?",
+    "date": "2024-11-30T14:00:00Z",
+    "description": "See how Python's if __name__ == \"__main__\" check runs code only when the file is executed, so your imports stay clean and your scripts gain a clear entry point."
+  },
+  "https://realpython.com/inheritance-composition-python/": {
+    "author": "Isaac Rodriguez",
+    "title": "Inheritance and Composition: A Python OOP Guide",
+    "date": "2025-01-11T14:00:00Z",
+    "description": "In this step-by-step tutorial, you'll learn about inheritance and composition in Python. You'll improve your object-oriented programming (OOP) skills by understanding how to use inheritance and composition and how to leverage them in their design."
+  },
+  "https://realpython.com/inner-functions-what-are-they-good-for/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python Inner Functions: What Are They Good For?",
+    "date": "2025-12-10T14:00:00Z",
+    "description": "Learn how to create inner functions in Python to access nonlocal names, build stateful closures, and create decorators."
+  },
+  "https://realpython.com/instance-class-and-static-methods-demystified/": {
+    "author": "Martin Breuss",
+    "title": "Python's Instance, Class, and Static Methods Demystified",
+    "date": "2025-03-17T14:00:00Z",
+    "description": "In this tutorial, you'll compare Python's instance methods, class methods, and static methods. You'll gain an understanding of when and how to use each method type to write clear and maintainable object-oriented code."
+  },
+  "https://realpython.com/interacting-with-python/": {
+    "author": "Martin Breuss",
+    "title": "Interacting With Python",
+    "date": "2024-11-18T14:00:00Z",
+    "description": "In this tutorial, you'll explore the various ways of interacting with Python. You'll learn about the REPL for quick testing and running scripts, as well as how to work with IDEs, Jupyter Notebooks, and online interpreters."
+  },
+  "https://realpython.com/ipython-interactive-python-shell/": {
+    "author": "Vincent Matinde",
+    "title": "Unlock IPython's Magical Toolbox for Your Coding Journey",
+    "date": "2023-07-12T14:00:00Z",
+    "description": "IPython is a powerful tool that can prove useful on your journey to mastering Python. Its friendly interface will enable you to comfortably take control of your learning. In this tutorial, you'll cover the basic concepts of using IPython and learn how its features can make coding efficient."
+  },
+  "https://realpython.com/iterate-through-dictionary-python/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "How to Iterate Through a Dictionary in Python",
+    "date": "2024-11-23T14:00:00Z",
+    "description": "In this tutorial, you'll take a deep dive into how to iterate through a dictionary in Python. Dictionaries are a fundamental data type in Python, and you can solve various programming problems by iterating through them."
+  },
+  "https://realpython.com/langgraph-python/": {
+    "author": "Harrison Hoffman",
+    "title": "LangGraph: Build Stateful AI Agents in Python",
+    "date": "2025-03-19T14:00:00Z",
+    "description": "LangGraph is a versatile Python library designed for stateful, cyclic, and multi-actor Large Language Model (LLM) applications. This tutorial will give you an overview of LangGraph fundamentals through hands-on examples, and the tools needed to build your own LLM workflows and agents in LangGraph."
+  },
+  "https://realpython.com/lego-model-view-controller-python/": {
+    "author": "Alex Coleman",
+    "title": "Model-View-Controller (MVC) in Python Web Apps: Explained With Lego",
+    "date": "2024-03-18T14:00:00Z",
+    "description": "This tutorial conceptually explains the Model-View-Controller (MVC) pattern in Python web apps using Lego bricks. Finally understand this important architecture to streamline your web development process."
+  },
+  "https://realpython.com/live/": {
+    "author": null,
+    "title": "Cohort-Based Live Python Courses – Real Python",
+    "date": null,
+    "description": "Learn Python live with Real Python&#x27;s expert instructors. Join a small, interactive cohort to master Python fundamentals, deepen your skills, and build real projects with hands-on guidance and community support."
+  },
+  "https://realpython.com/llamaindex-examples/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "LlamaIndex in Python: A RAG Guide With Examples",
+    "date": "2025-12-24T14:00:00Z",
+    "description": "Learn how to set up LlamaIndex, choose an LLM, load your data, build and persist an index, and run queries to get grounded, reliable answers with examples."
+  },
+  "https://realpython.com/media-kit/": {
+    "author": null,
+    "title": "Media Kit – Real Python",
+    "date": null,
+    "description": "Overview and media resources for Real Python."
+  },
+  "https://realpython.com/merch/": {
+    "author": null,
+    "title": null,
+    "date": null,
+    "description": null
+  },
+  "https://realpython.com/mission/": {
+    "author": null,
+    "title": "Mission &amp; Values – Real Python",
+    "date": null,
+    "description": "Learn about Real Python&#x27;s mission and values: empowering Python developers of all levels with practical, high-quality education that builds real-world skills and fosters community."
+  },
+  "https://realpython.com/modern-web-automation-with-python-and-selenium/": {
+    "author": "Martin Breuss",
+    "title": "Modern Web Automation With Python and Selenium",
+    "date": "2025-04-30T14:00:00Z",
+    "description": "Learn advanced Python web automation techniques with Selenium, such as headless browsing, interacting with web elements, and implementing the Page Object Model pattern."
+  },
+  "https://realpython.com/natural-language-processing-spacy-python/": {
+    "author": "Taranjeet Singh",
+    "title": "Natural Language Processing With spaCy in Python",
+    "date": "2025-02-01T14:00:00Z",
+    "description": "In this step-by-step tutorial, you'll learn how to use spaCy. This free and open-source library for natural language processing (NLP) in Python has a lot of built-in capabilities and is becoming increasingly popular for processing and analyzing data in NLP."
+  },
+  "https://realpython.com/numpy-max-maximum/": {
+    "author": "Charles de Villiers",
+    "title": "NumPy's max() and maximum(): Find Extreme Values in Arrays",
+    "date": "2025-01-18T14:00:00Z",
+    "description": "In this introduction to NumPy, you'll learn how to find extreme values using the max() and maximum() functions. This includes finding the maximum element in an array or along a given axis of an array, as well as comparing two arrays to find the larger element in each index position."
+  },
+  "https://realpython.com/numpy-random-number-generator/": {
+    "author": "Ian Eyre",
+    "title": "Using the NumPy Random Number Generator",
+    "date": "2023-06-05T14:00:00Z",
+    "description": "In this tutorial, you'll take a look at the powerful random number capabilities of the NumPy random number generator. You'll learn how to work with both individual numbers and NumPy arrays, as well as how to sample from a statistical distribution."
+  },
+  "https://realpython.com/numpy-reshape/": {
+    "author": "Stephen Gruppetta",
+    "title": "Using NumPy reshape() to Change the Shape of an Array",
+    "date": "2023-02-27T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to use NumPy reshape() to rearrange the data in an array. You'll learn to increase and decrease the number of dimensions and to configure the data in the new array to suit your requirements."
+  },
+  "https://realpython.com/ollama/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "How to Use Ollama to Run Large Language Models Locally",
+    "date": "2026-03-30T14:00:00Z",
+    "description": "Learn how to use Ollama to run large language models locally. Install it, pull models, and start chatting from your terminal without needing API keys."
+  },
+  "https://realpython.com/ollama-python/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "How to Integrate Local LLMs With Ollama and Python",
+    "date": "2026-01-21T14:00:00Z",
+    "description": "Learn how to integrate your Python projects with local models (LLMs) using Ollama for enhanced privacy and cost efficiency."
+  },
+  "https://realpython.com/pandas-merge-join-and-concat/": {
+    "author": "Kyle Stratis",
+    "title": "Combining Data in pandas With merge(), .join(), and concat()",
+    "date": "2022-04-25T14:00:00Z",
+    "description": "In this step-by-step tutorial, you'll learn three techniques for combining data in pandas: merge(), .join(), and concat(). Combining Series and DataFrame objects in pandas is a powerful way to gain new insights into your data."
+  },
+  "https://realpython.com/popular-python-tutorials-2025/": {
+    "author": "Martin Breuss",
+    "title": "Learn From 2025's Most Popular Python Tutorials and Courses",
+    "date": "2026-01-05T14:00:00Z",
+    "description": "Pick from the best Python tutorials and courses of 2025. Revisit core skills, 3.14 updates, AI coding tools, and project walkthroughs. Kickstart your 2026!"
+  },
+  "https://realpython.com/practical-prompt-engineering/": {
+    "author": "Martin Breuss",
+    "title": "Prompt Engineering: A Practical Example",
+    "date": "2024-03-25T14:00:00Z",
+    "description": "Learn prompt engineering techniques with a practical, real-world project to get better results from large language models. This tutorial covers zero-shot and few-shot prompting, delimiters, numbered steps, role prompts, chain-of-thought prompting, and more. Improve your LLM-assisted projects today."
+  },
+  "https://realpython.com/privacy-policy/": {
+    "author": null,
+    "title": "Privacy Policy – Real Python",
+    "date": null,
+    "description": "Understand how Real Python collects, uses, and protects your personal information. Our privacy policy explains your rights and how we safeguard your data while providing Python education."
+  },
+  "https://realpython.com/ptpython-shell/": {
+    "author": "Vincent Matinde",
+    "title": "Boost Your Coding Productivity With Ptpython",
+    "date": "2023-10-25T14:00:00Z",
+    "description": "Learn how to enhance your Python development workflow with auto-completion, syntax highlighting, history navigation, and more. In this tutorial, you'll walk through the fundamentals of ptpython, covering installation, basic usage, and advanced features."
+  },
+  "https://realpython.com/pydantic-ai/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Pydantic AI: Build Type-Safe LLM Agents in Python",
+    "date": "2026-03-11T14:00:00Z",
+    "description": "Learn how to use Pydantic AI to build type-safe LLM agents in Python with structured outputs, function calling, and dependency injection patterns."
+  },
+  "https://realpython.com/python-all-attribute/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's __all__: Packages, Modules, and Wildcard Imports",
+    "date": "2024-03-04T14:00:00Z",
+    "description": "In this tutorial, you'll learn about wildcard imports and the __all__ variable in Python. With __all__, you can prepare your packages and modules for wildcard imports, which are a quick way to import everything."
+  },
+  "https://realpython.com/python-api/": {
+    "author": "Pedro Pregueiro",
+    "title": "Python & APIs: A Winning Combo for Reading Public Data",
+    "date": "2025-02-01T14:00:00Z",
+    "description": "In this tutorial, you'll learn what APIs are and how to consume them using Python. You'll also learn some core concepts for working with APIs, such as status codes, HTTP methods, the requests library, and much more. You'll also see a few examples of real-life APIs and how to consume them."
+  },
+  "https://realpython.com/python-assert-statement/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's assert: Debug and Test Your Code Like a Pro",
+    "date": "2025-01-12T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to use Python's assert statement to document, debug, and test code in development. You'll learn how assertions might be disabled in production code, so you shouldn't use them to validate data. You'll also learn about a few common pitfalls of assertions in Python."
+  },
+  "https://realpython.com/python-bugfix-version/": {
+    "author": "Geir Arne Hjelle",
+    "title": "Should You Update to the Latest Python Bugfix Version?",
+    "date": "2022-11-02T14:00:00Z",
+    "description": "What's the significance of the third digit in a Python version number? In this tutorial, you'll learn more about Python bugfix versions and whether you need to care about them."
+  },
+  "https://realpython.com/python-built-in-functions/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python Built-in Functions: A Complete Guide",
+    "date": "2026-05-18T14:00:00Z",
+    "description": "Use Python's built-in functions for math, data types, iterables, and I/O to write shorter, more Pythonic code."
+  },
+  "https://realpython.com/python-constants/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python Constants: Improve Your Code's Maintainability",
+    "date": "2025-01-19T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to properly define constants in Python. By coding a bunch of practical example, you'll also learn how Python constants can improve your code's readability, reusability, and maintainability."
+  },
+  "https://realpython.com/python-continue/": {
+    "author": "Jon Fincher",
+    "title": "Skip Ahead in Loops With Python's continue Keyword",
+    "date": "2025-08-04T14:00:00Z",
+    "description": "Learn how Python's continue statement works, when to use it, common mistakes to avoid, and what happens under the hood in CPython byte code."
+  },
+  "https://realpython.com/python-data-classes/": {
+    "author": "Geir Arne Hjelle",
+    "title": "Data Classes in Python (Guide)",
+    "date": "2018-05-15T14:00:00Z",
+    "description": "Learn how a Python dataclass reduces boilerplate, adds type hints and defaults, supports ordering and frozen instances, and still plays well with inheritance."
+  },
+  "https://realpython.com/python-data-types/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Basic Data Types in Python: A Quick Exploration",
+    "date": "2024-12-21T14:00:00Z",
+    "description": "In this tutorial, you'll learn about the basic data types that are built into Python, including numbers, strings, bytes, and Booleans."
+  },
+  "https://realpython.com/python-deque/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's deque: Implement Efficient Queues and Stacks",
+    "date": "2026-01-12T14:00:00Z",
+    "description": "Use a Python deque to efficiently append and pop elements from both ends of a sequence, build queues and stacks, and set maxlen for history buffers."
+  },
+  "https://realpython.com/python-dice-roll/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Build a Dice-Rolling Application With Python",
+    "date": "2025-02-02T14:00:00Z",
+    "description": "In this step-by-step project, you'll build a dice-rolling simulator app with a minimal text-based user interface using Python. The app will simulate the rolling of up to six dice. Each individual die will have six sides."
+  },
+  "https://realpython.com/python-dict-attribute/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Using Python's .__dict__ to Work With Attributes",
+    "date": "2025-04-09T14:00:00Z",
+    "description": "In this tutorial, you'll dive deeper into the .__dict__ attribute in Python objects. This attribute is a dictionary-like object that holds writable class or instance attributes. It allows you to manage attributes at a low level, making your classes flexible and efficient."
+  },
+  "https://realpython.com/python-django-blog/": {
+    "author": "Philipp Acsany",
+    "title": "Build a Blog Using Django, GraphQL, and Vue",
+    "date": "2024-04-15T14:00:00Z",
+    "description": "In this step-by-step project, you'll build a blog from the ground up. You'll turn your Django blog data models into a GraphQL API and consume it in a Vue application for users to read. You'll end up with an admin site and a user-facing site you can continue to refine for your own use."
+  },
+  "https://realpython.com/python-double-underscore/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Single and Double Underscores in Python Names",
+    "date": "2025-08-18T14:00:00Z",
+    "description": "Learn Python naming conventions with single and double underscores to design APIs, create safe classes, and prevent name clashes."
+  },
+  "https://realpython.com/python-ellipsis/": {
+    "author": "Philipp Acsany",
+    "title": "When Do You Use an Ellipsis in Python?",
+    "date": "2022-09-19T14:00:00Z",
+    "description": "You may have seen three dots in Python scripts. Although this syntax may look odd,  using an ellipsis is valid Python code. In this tutorial, you'll learn when Python's Ellipsis constant can come in handy for you."
+  },
+  "https://realpython.com/python-exceptions/": {
+    "author": "Said van de Klundert",
+    "title": "Python Exceptions: An Introduction",
+    "date": "2024-12-01T14:00:00Z",
+    "description": "In this beginner tutorial, you'll learn what exceptions are good for in Python. You'll see how to raise exceptions and how to handle them with try ... except blocks."
+  },
+  "https://realpython.com/python-f-strings/": {
+    "author": "Joanna Jablonski",
+    "title": "Python's F-String for String Interpolation and Formatting",
+    "date": "2024-11-30T14:00:00Z",
+    "description": "Python's f-strings provide a readable way to interpolate and format strings. They're readable, concise, and less prone to error than traditional string interpolation and formatting tools, such as the .format() method and the modulo operator (%). F-strings are also faster than those tools!"
+  },
+  "https://realpython.com/python-flatten-list/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "How to Flatten a List of Lists in Python",
+    "date": "2026-05-11T14:00:00Z",
+    "description": "Learn how to flatten a list of lists in Python using for loops, list comprehensions, itertools, functools, NumPy, and recursion."
+  },
+  "https://realpython.com/python-flush-print-output/": {
+    "author": "Martin Breuss",
+    "title": "How to Flush the Output of the Python Print Function",
+    "date": "2025-01-25T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to flush the output of Python's print function. You'll explore output stream buffering in Python using code examples and learn that output streams are block-buffered by default, and that print() with its default arguments executes line-buffered when interactive."
+  },
+  "https://realpython.com/python-folium-web-maps-from-data/": {
+    "author": "Martin Breuss",
+    "title": "Python Folium: Create Web Maps From Your Data",
+    "date": "2025-01-26T14:00:00Z",
+    "description": "Create interactive web maps in Python with Folium. Learn how to build and style a choropleth map by binding data to GeoJSON layers."
+  },
+  "https://realpython.com/python-for-loop/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python for Loops: The Pythonic Way",
+    "date": "2026-02-23T14:00:00Z",
+    "description": "Learn how to use Python for loops to iterate over lists, tuples, strings, and dictionaries with Pythonic looping techniques."
+  },
+  "https://realpython.com/python-format-mini-language/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's Format Mini-Language for Tidy Strings",
+    "date": "2024-01-31T14:00:00Z",
+    "description": "In this tutorial, you'll learn about Python's format mini-language. You'll learn how to use the mini-language to create working format specifiers and build nicely formatted strings and messages in your code."
+  },
+  "https://realpython.com/python-formatted-output/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "A Guide to Modern Python String Formatting Tools",
+    "date": "2025-02-01T14:00:00Z",
+    "description": "In this tutorial, you'll explore Python's modern string formatting tools. You'll learn how to harness the power of Python's f-strings and the .format() method for string interpolation and formatting."
+  },
+  "https://realpython.com/python-fractions/": {
+    "author": "Bartosz Zaczyński",
+    "title": "Representing Rational Numbers With Python Fractions",
+    "date": "2021-10-11T14:00:00Z",
+    "description": "In this tutorial, you'll learn about the Fraction data type in Python, which can represent rational numbers precisely without the rounding errors in binary arithmetic. You'll find that this is especially important in financial and other high-precision applications."
+  },
+  "https://realpython.com/python-functional-programming/": {
+    "author": "John Sturtz",
+    "title": "Functional Programming in Python: When and How to Use It",
+    "date": "2024-08-05T14:00:00Z",
+    "description": "In this tutorial, you'll learn about functional programming in Python. You'll see what functional programming is, how it's supported in Python, and how you can use it in your Python code."
+  },
+  "https://realpython.com/python-getter-setter/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Getters and Setters: Manage Attributes in Python",
+    "date": "2025-01-20T14:00:00Z",
+    "description": "In this tutorial, you'll learn what getter and setter methods are, how Python properties are preferred over getters and setters when dealing with attribute access and mutation, and when to use getter and setter methods instead of properties in Python."
+  },
+  "https://realpython.com/python-ides-code-editors-guide/": {
+    "author": "Jon Fincher",
+    "title": "Python IDEs and Code Editors (Guide)",
+    "date": "2018-03-13T14:00:00Z",
+    "description": "Find your perfect Python development setup with this review of Python IDEs and code editors, including recommendations and screen shots."
+  },
+  "https://realpython.com/python-in-operator/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's \"in\" and \"not in\" Operators: Check for Membership",
+    "date": "2025-01-26T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to check if a given value is present or absent in a collection of values using Python's in and not in operators, respectively. This type of check is known as membership test in Python."
+  },
+  "https://realpython.com/python-init-py/": {
+    "author": "Charles de Villiers",
+    "title": "What Is Python's __init__.py For?",
+    "date": "2025-07-09T14:00:00Z",
+    "description": "Learn to declare packages with Python's __init__.py, set package variables, simplify imports, and understand what happens if this module is missing."
+  },
+  "https://realpython.com/python-input-output/": {
+    "author": "Martin Breuss",
+    "title": "Basic Input and Output in Python",
+    "date": "2024-12-02T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to take user input from the keyboard with the input() function and display output to the console with the print() function. You'll also use readline to improve the user experience when collecting input and to effectively format output."
+  },
+  "https://realpython.com/python-join-string/": {
+    "author": "Martin Breuss",
+    "title": "How to Join Strings in Python",
+    "date": "2025-02-10T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to use Python's built-in .join() method to combine string elements from an iterable into a single string with a specified separator. You'll also learn about common pitfalls, and how CPython makes .join() work efficiently."
+  },
+  "https://realpython.com/python-json/": {
+    "author": "Philipp Acsany",
+    "title": "Working With JSON Data in Python",
+    "date": "2025-08-20T14:00:00Z",
+    "description": "Learn how to work with JSON data in Python using the json module. Convert, read, write, and validate JSON files and handle JSON data for APIs and storage."
+  },
+  "https://realpython.com/python-list/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's list Data Type: A Deep Dive With Examples",
+    "date": "2023-07-19T14:00:00Z",
+    "description": "In this tutorial, you'll dive deep into Python's lists. You'll learn how to create them, update their content, populate and grow them, and more. Along the way, you'll code practical examples that will help you strengthen your skills with this fundamental data type in Python."
+  },
+  "https://realpython.com/python-lists-tuples/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Lists vs Tuples in Python",
+    "date": "2025-01-26T14:00:00Z",
+    "description": "In this tutorial, you'll learn the key characteristics of lists and tuples in Python, as well as how to define and manipulate them. When you're finished, you'll have a good feel for when to use a tuple vs a list in a Python program."
+  },
+  "https://realpython.com/python-markitdown/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python MarkItDown: Convert Documents Into LLM-Ready Markdown",
+    "date": "2025-11-05T14:00:00Z",
+    "description": "Get started with Python MarkItDown to turn PDFs, Office files, images, and URLs into clean, LLM-ready Markdown in seconds."
+  },
+  "https://realpython.com/python-mcp/": {
+    "author": "Harrison Hoffman",
+    "title": "Python MCP Server: Connect LLMs to Your Data",
+    "date": "2025-09-24T14:00:00Z",
+    "description": "Learn how to build a Model Context Protocol (MCP) server in Python. Connect tools, prompts, and data to AI agents like Cursor for smarter assistants."
+  },
+  "https://realpython.com/python-mcp-client/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Build a Python MCP Client to Test Servers From Your Terminal",
+    "date": "2025-11-19T14:00:00Z",
+    "description": "Follow this Python project to build an MCP client that discovers MCP server capabilities and feeds an AI-powered chat with tool calls."
+  },
+  "https://realpython.com/python-min-and-max/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's min() and max(): Find Smallest and Largest Values",
+    "date": "2025-01-18T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to use Python's built-in min() and max() functions to find the smallest and largest values. You'll also learn how to modify their standard behavior by providing a suitable key function. Finally, you'll code a few practical examples of using min() and max()."
+  },
+  "https://realpython.com/python-mock-library/": {
+    "author": "Alex Ronquillo",
+    "title": "Understanding the Python Mock Object Library",
+    "date": "2025-01-18T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to use the Python mock object library, unittest.mock, to create and use mock objects to improve your tests. Obstacles like complex logic and unpredictable dependencies make writing valuable tests difficult, but unittest.mock can help you overcome these obstacles."
+  },
+  "https://realpython.com/python-modulo-string-formatting/": {
+    "author": "John Sturtz",
+    "title": "Modulo String Formatting in Python",
+    "date": "2022-01-24T14:00:00Z",
+    "description": "You can use the modulo operator for string formatting in Python. It's a commonly used technique in older Python versions, especially in Python 2. Therefore, you might see it when digging into existing code bases, and it can be helpful to understand how it works."
+  },
+  "https://realpython.com/python-multiple-constructors/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Providing Multiple Constructors in Your Python Classes",
+    "date": "2025-02-01T14:00:00Z",
+    "description": "In this step-by-step tutorial, you'll learn how to provide multiple constructors in your Python classes. To this end, you'll learn different techniques, such as checking argument types, using default argument values, writing class methods, and implementing single-dispatch methods."
+  },
+  "https://realpython.com/python-mutable-vs-immutable-types/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's Mutable vs Immutable Types: What's the Difference?",
+    "date": "2025-01-26T14:00:00Z",
+    "description": "In this tutorial, you'll learn how Python mutable and immutable data types work internally and how you can take advantage of mutability or immutability to power your code."
+  },
+  "https://realpython.com/python-news-april-2026/": {
+    "author": "Stephen Gruppetta",
+    "title": "D-Strings Could End Your textwrap.dedent() Days and Other Python News for April 2026",
+    "date": "2026-04-06T14:00:00Z",
+    "description": "D-strings proposed to kill textwrap.dedent(), Python 3.15 alpha 7 ships lazy imports, GPT-5.4 launches, and Python Insider moves home."
+  },
+  "https://realpython.com/python-news-december-2024/": {
+    "author": "Martin Breuss",
+    "title": "Python News Roundup: December 2024",
+    "date": "2024-12-09T14:00:00Z",
+    "description": "This month brings exciting updates, including improvements to template strings in PEP 750 and the release of Python 3.14.0a2. There are new features to explore in many third-party libraries, such as Pydantic. Also, PyCon's call for proposals deadline is near and the popular Advent of Code is back."
+  },
+  "https://realpython.com/python-news-december-2025/": {
+    "author": "Martin Breuss",
+    "title": "Lazy Imports Land in Python and Other Python News for December 2025",
+    "date": "2025-12-08T14:00:00Z",
+    "description": "PEP 810 brings lazy imports to Python 3.15, PyPI tightens 2FA security, and Django 6.0 reaches release candidate. Catch up on all the important Python news!"
+  },
+  "https://realpython.com/python-news-february-2026/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "pandas 3.0 Lands Breaking Changes and Other Python News for February 2026",
+    "date": "2026-02-09T14:00:00Z",
+    "description": "Catch up on the latest Python news: pandas 3.0 breaking changes, Python 3.15 alpha JIT gains, PyTorch 2.10 deprecations, and PSF updates."
+  },
+  "https://realpython.com/python-news-january-2023/": {
+    "author": "Martin Breuss",
+    "title": "Python News: What's New From January 2023",
+    "date": "2023-02-13T14:00:00Z",
+    "description": "Quickly get up to speed on what's been happening in the world of Python in the past month. The PSF hires a security developer in residence! You'll also read about Python 3.12 alpha 4 and three recently published PEPs. Maybe you'll get dragged into the ongoing discussion about Python packaging!"
+  },
+  "https://realpython.com/python-news-july-2025/": {
+    "author": "Martin Breuss",
+    "title": "Free-Threaded Python Unleashed and Other Python News for July 2025",
+    "date": "2025-07-07T14:00:00Z",
+    "description": "Python 3.14's free-threaded interpreter is now officially supported—plus more key updates from the world of Python you don't want to miss!"
+  },
+  "https://realpython.com/python-news-june-2022/": {
+    "author": "Martin Breuss",
+    "title": "Python News: What's New From June 2022",
+    "date": "2022-07-06T14:00:00Z",
+    "description": "June 2022 was full of exciting Python news! Quickly get up to speed on what's been happening in the world of Python in the past month. You'll read about the PSF elections, PEP 691, the 2021 Python Developers Survey results, and more."
+  },
+  "https://realpython.com/python-news-september-2022/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python News: What's New From September 2022",
+    "date": "2022-10-10T14:00:00Z",
+    "description": "September 2022 brought some exciting Python news! In this news summary, you'll read about the latest release candidate of Python, the breaking changes that Python 3.10.7 introduced to fix a security vulnerability, the new releases of fundamental projects in the Python ecosystem, and more."
+  },
+  "https://realpython.com/python-operator-module/": {
+    "author": "Ian Eyre",
+    "title": "Working With the Python operator Module",
+    "date": "2023-08-02T14:00:00Z",
+    "description": "In this tutorial, you'll explore the Python operator module and its role in functional programming. You'll code several examples of using both operator-equivalent and higher-order functions in programs."
+  },
+  "https://realpython.com/python-optional-arguments/": {
+    "author": "Stephen Gruppetta",
+    "title": "Using Python Optional Arguments When Defining Functions",
+    "date": "2025-10-27T14:00:00Z",
+    "description": "Learn to use Python's optional arguments to handle variable inputs. Build flexible functions and avoid common errors when setting defaults."
+  },
+  "https://realpython.com/python-packages/": {
+    "author": "Real Python",
+    "title": "Python Packages: Five Real Python Favorites",
+    "date": "2020-07-22T14:00:00Z",
+    "description": "In this tutorial, several Real Python authors share Python packages we like to use as alternatives to modules in the standard library. You'll get to know a number of useful packages, including pudb, requests, parse, dateutil, and typer."
+  },
+  "https://realpython.com/python-pathlib/": {
+    "author": "Geir Arne Hjelle",
+    "title": "Python's pathlib Module: Taming the File System",
+    "date": "2025-01-11T14:00:00Z",
+    "description": "Python's pathlib module enables you to handle file and folder paths in a modern way. This built-in module provides intuitive semantics that work the same way on different operating systems. In this tutorial, you'll get to know pathlib and explore common tasks when interacting with paths."
+  },
+  "https://realpython.com/python-pep8/": {
+    "author": "Jasmine Finer",
+    "title": "How to Write Beautiful Python Code With PEP 8",
+    "date": "2025-01-12T14:00:00Z",
+    "description": "Learn how to write high-quality, readable code by using the Python style guidelines laid out in PEP 8. Following these guidelines helps you make a great impression when sharing your work with potential employers and collaborators."
+  },
+  "https://realpython.com/python-pre-release/": {
+    "author": "Geir Arne Hjelle",
+    "title": "How Can You Install a Pre-Release Version of Python?",
+    "date": "2022-08-31T14:00:00Z",
+    "description": "If you want to have a peek at what's coming in the next stable version of Python, then you can install a pre-release version. In this tutorial, you'll learn how to access the latest Python versions and help test them."
+  },
+  "https://realpython.com/python-pretty-print/": {
+    "author": "Ian Currie",
+    "title": "Prettify Your Data Structures With Pretty Print in Python",
+    "date": "2021-12-06T14:00:00Z",
+    "description": "The pprint module, Python's data pretty printer, is a useful part of the standard library. You can work with it for debugging data structures and increasing the readability of your output. In this tutorial, you'll find that pprint is both straightforward to use and also highly customizable."
+  },
+  "https://realpython.com/python-project-documentation-with-mkdocs/": {
+    "author": "Martin Breuss",
+    "title": "Build Your Python Project Documentation With MkDocs",
+    "date": "2022-06-15T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to build professional documentation for a Python package using MkDocs and mkdocstrings. These tools allow you to generate nice-looking and modern documentation from Markdown files and, more importantly, from your code's docstrings."
+  },
+  "https://realpython.com/python-property/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's property(): Add Managed Attributes to Your Classes",
+    "date": "2024-12-15T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to create managed attributes in your classes using Python's property(). Managed attributes are attributes that have function-like behavior, which allows for performing actions during the attribute access and update."
+  },
+  "https://realpython.com/python-raise-exception/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's raise: Effectively Raising Exceptions in Your Code",
+    "date": "2025-01-25T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to raise exceptions in Python, which will improve your ability to efficiently handle errors and exceptional situations in your code. This way, you'll write more reliable, robust, and maintainable code."
+  },
+  "https://realpython.com/python-repr-vs-str/": {
+    "author": "Stephen Gruppetta",
+    "title": "When Should You Use .__repr__() vs .__str__() in Python?",
+    "date": "2025-10-20T14:00:00Z",
+    "description": "Find out when to choose Python's __repr__() vs __str__() in your classes so your objects show helpful information for debugging and user output."
+  },
+  "https://realpython.com/python-requests/": {
+    "author": "Alex Ronquillo",
+    "title": "Python's Requests Library (Guide)",
+    "date": "2025-07-23T14:00:00Z",
+    "description": "The Requests library is the go-to tool for making HTTP requests in Python. Learn how to use its intuitive API to send requests and interact with the web."
+  },
+  "https://realpython.com/python-sequences/": {
+    "author": "Stephen Gruppetta",
+    "title": "Python Sequences: A Comprehensive Guide",
+    "date": "2024-05-01T14:00:00Z",
+    "description": "This tutorial dives into Python sequences, which is one of the main categories of data types. You'll learn about the properties that make an object a sequence and how to create user-defined sequences."
+  },
+  "https://realpython.com/python-skills/": {
+    "author": "Bartosz Zaczyński",
+    "title": "Python Skills That Get You Hired: A Step-by-Step Guide",
+    "date": "2025-12-17T14:00:00Z",
+    "description": "Learn which Python skills employers value most and how to build them. Includes a skill roadmap worksheet, practice schedule, and interview prep strategies."
+  },
+  "https://realpython.com/python-split-string/": {
+    "author": "Martin Breuss",
+    "title": "How to Split a String in Python",
+    "date": "2025-02-05T14:00:00Z",
+    "description": "This tutorial will help you master Python string splitting. You'll learn to use .split(), .splitlines(), and re.split() to effectively handle whitespace, custom delimiters, and multiline text, which will level up your data parsing skills."
+  },
+  "https://realpython.com/python-string-contains-substring/": {
+    "author": "Martin Breuss",
+    "title": "How to Check if a Python String Contains a Substring",
+    "date": "2024-12-01T14:00:00Z",
+    "description": "In this tutorial, you'll learn the best way to check whether a Python string contains a substring. You'll also learn about idiomatic ways to inspect the substring further, match substrings with conditions using regular expressions, and search for substrings in pandas."
+  },
+  "https://realpython.com/python-strip/": {
+    "author": "Atharva Shah",
+    "title": "How to Strip Characters From a Python String",
+    "date": "2025-04-02T14:00:00Z",
+    "description": "Use Python's .strip() method to remove unwanted whitespace or specific characters. Learn about common pitfalls, real-world use cases, and compare .strip() with similar methods like .lstrip() and .removesuffix()."
+  },
+  "https://realpython.com/python-thread-lock/": {
+    "author": "Adarsh Divakaran",
+    "title": "Python Thread Safety: Using a Lock and Other Techniques",
+    "date": "2024-10-23T14:00:00Z",
+    "description": "In this tutorial, you'll learn about the issues that can occur when your code is run in a multithreaded environment. Then you'll explore the various synchronization primitives available in Python's threading module, such as locks, which help you make your code safe."
+  },
+  "https://realpython.com/python-tuple/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's tuple Data Type: A Deep Dive With Examples",
+    "date": "2023-10-04T14:00:00Z",
+    "description": "In Python, a tuple is a built-in data type that allows you to create immutable sequences of values. The values or items in a tuple can be of any type. This makes tuples pretty useful in those situations where you need to store heterogeneous data, like that in a database record, for example."
+  },
+  "https://realpython.com/python-ty/": {
+    "author": "Bartosz Zaczyński",
+    "title": "Astral's ty: A New Blazing-Fast Type Checker for Python",
+    "date": "2025-09-29T14:00:00Z",
+    "description": "Learn to use ty, an ultra-fast Python type checker written in Rust. Get setup instructions, run type checks, and fine-tune custom rules in personal projects."
+  },
+  "https://realpython.com/python-typer-cli/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Build a Command-Line To-Do App With Python and Typer",
+    "date": "2021-11-08T14:00:00Z",
+    "description": "In this step-by-step project, you'll create a to-do application for your command line using Python and Typer. While you build this app, you'll learn the basics of Typer, a modern and versatile library for building command-line interfaces (CLI)."
+  },
+  "https://realpython.com/python-unittest/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's unittest: Writing Unit Tests for Your Code",
+    "date": "2024-04-29T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to use the unittest framework to create unit tests for your Python code. Along the way, you'll also learn how to create test cases, fixtures, test suites, and more."
+  },
+  "https://realpython.com/python-use-global-variable-in-function/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Using and Creating Global Variables in Your Python Functions",
+    "date": "2024-12-08T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to use global variables in Python functions using the global keyword or the built-in globals() function. You'll also learn a few strategies to avoid relying on global variables because they can lead to code that's difficult to understand, debug, and maintain."
+  },
+  "https://realpython.com/python-uv/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Managing Python Projects With uv: An All-in-One Solution",
+    "date": "2025-04-28T14:00:00Z",
+    "description": "Learn how to create and manage your Python projects using uv, an extremely fast Python package and project manager written in Rust."
+  },
+  "https://realpython.com/python-variables/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Variables in Python: Usage and Best Practices",
+    "date": "2026-04-15T14:00:00Z",
+    "description": "Explore Python variables from creation to best practices, covering naming conventions, dynamic typing, variable scope, and type hints with examples."
+  },
+  "https://realpython.com/python-virtual-environments-a-primer/": {
+    "author": "Martin Breuss",
+    "title": "Python Virtual Environments: A Primer",
+    "date": "2024-11-30T14:00:00Z",
+    "description": "Create isolated project setups on all platforms, and gain a deep understanding of Python's virtual environments created with the venv module."
+  },
+  "https://realpython.com/python-wav-files/": {
+    "author": "Bartosz Zaczyński",
+    "title": "Reading and Writing WAV Files in Python",
+    "date": "2024-03-27T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to work with WAV audio files in Python using the standard-library wave module. Along the way, you'll synthesize sounds from scratch, visualize waveforms in the time domain, animate real-time spectrograms, and apply special effects to widen the stereo field."
+  },
+  "https://realpython.com/python-web-applications/": {
+    "author": "Martin Breuss",
+    "title": "Python Web Applications: Deploy Your Script as a Flask App",
+    "date": "2021-02-01T14:00:00Z",
+    "description": "In this tutorial, you’ll learn how to go from a local Python script to a fully deployed Flask web application that you can share with the world."
+  },
+  "https://realpython.com/python-web-scraping-practical-introduction/": {
+    "author": "David Amos",
+    "title": "A Practical Introduction to Web Scraping in Python",
+    "date": "2024-12-21T14:00:00Z",
+    "description": "In this tutorial, you'll learn all about web scraping in Python. You'll see how to parse data from websites and interact with HTML forms using tools such as Beautiful Soup and MechanicalSoup."
+  },
+  "https://realpython.com/python-zip-import/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python Zip Imports: Distribute Modules and Packages Quickly",
+    "date": "2021-12-27T14:00:00Z",
+    "description": "In this step-by-step tutorial, you'll learn what Zip imports are and how to use them in Python. You'll learn to create your own importable ZIP files and make them available for use. Finally, you'll learn how to use the zipimport module to dynamically import code from ZIP files."
+  },
+  "https://realpython.com/python-zipfile/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python's zipfile: Manipulate Your ZIP Files Efficiently",
+    "date": "2025-01-26T14:00:00Z",
+    "description": "In this guided tutorial, you'll learn how to manipulate ZIP files using Python's zipfile module from the standard library. Through hands-on examples, you'll learn how to read, write, compress, and extract files from your ZIP files quickly."
+  },
+  "https://realpython.com/python3-object-oriented-programming/": {
+    "author": "David Amos",
+    "title": "Object-Oriented Programming (OOP) in Python",
+    "date": "2024-12-15T14:00:00Z",
+    "description": "In this tutorial, you'll learn all about object-oriented programming (OOP) in Python. You'll learn the basics of the OOP paradigm and cover concepts like classes and inheritance. You'll also see how to instantiate an object from a class."
+  },
+  "https://realpython.com/python311-new-features/": {
+    "author": "Geir Arne Hjelle",
+    "title": "Python 3.11: Cool New Features for You to Try",
+    "date": "2022-10-24T14:00:00Z",
+    "description": "In this tutorial, you'll explore what Python 3.11 brings to the table. You'll learn how Python 3.11 is the fastest and most user-friendly version of CPython yet, and learn about improvements to the typing system and to the asynchronous features of Python."
+  },
+  "https://realpython.com/python312-error-messages/": {
+    "author": "Martin Breuss",
+    "title": "Python 3.12 Preview: Ever Better Error Messages",
+    "date": "2023-04-05T14:00:00Z",
+    "description": "Python 3.12 will be released in October 2023. In this tutorial, you'll preview one of its upcoming features: even more precise error messages that'll help you debug your code more efficiently."
+  },
+  "https://realpython.com/python312-new-features/": {
+    "author": "Geir Arne Hjelle",
+    "title": "Python 3.12: Cool New Features for You to Try",
+    "date": "2023-10-02T14:00:00Z",
+    "description": "In this tutorial, you'll learn about the new features in Python 3.12. You'll explore how the new release extends the better error messages and faster code execution found in the previous version, and you'll try out the improvements to f-strings and type variable syntax."
+  },
+  "https://realpython.com/python312-subinterpreters/": {
+    "author": "Jim Anderson",
+    "title": "Python 3.12 Preview: Subinterpreters",
+    "date": "2023-09-25T14:00:00Z",
+    "description": "In this tutorial, you'll preview one of the upcoming features of Python 3.12 and a proposed change to Python 3.13, addressing how subinterpreters work in the CPython program. The changes are described in PEP 684 and PEP 554."
+  },
+  "https://realpython.com/quantum-computing-basics/": {
+    "author": "Negar Vahid",
+    "title": "Quantum Computing Basics With Qiskit",
+    "date": "2025-12-01T14:00:00Z",
+    "description": "Understand quantum computing basics like qubits, superposition, and entanglement. Then use Python Qiskit to build your first quantum circuit."
+  },
+  "https://realpython.com/real-python-pycon-us-2022/": {
+    "author": "Real Python Team",
+    "title": "Real Python at PyCon US 2022",
+    "date": "2022-04-29T14:00:00Z",
+    "description": "PyCon US is finally happening in person again. If you're in Salt Lake City, then come meet us at our Real Python booth and join our open space!"
+  },
+  "https://realpython.com/security/": {
+    "author": null,
+    "title": "Real Python Security and Reporting – Real Python",
+    "date": null,
+    "description": "If you find a security hole, please let us know at info+security@realpython.com. We try to respond (with fixes!) as soon as possible, and really appreciate the help."
+  },
+  "https://realpython.com/site-connectivity-checker-python/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Build a Site Connectivity Checker in Python",
+    "date": "2022-04-06T14:00:00Z",
+    "description": "In this step-by-step project, you'll build a Python site connectivity checker for the command line. While building this app, you'll integrate knowledge related to making HTTP requests with standard-library tools, creating command-line interfaces, and managing concurrency with asyncio and aiohttp."
+  },
+  "https://realpython.com/sponsorships/": {
+    "author": null,
+    "title": "Sponsorship Opportunities – Real Python",
+    "date": null,
+    "description": "By sponsoring Real Python you will reach a demographic of Python software engineers dedicated to improving their craft and their professional careers. We offer our clients multiple touchpoints across our platforms, ensuring your message cuts through to our audience."
+  },
+  "https://realpython.com/terminal-commands/": {
+    "author": "Philipp Acsany",
+    "title": "The Terminal: First Steps and Useful Commands for Python Developers",
+    "date": "2026-02-02T14:00:00Z",
+    "description": "Learn your way around the Python terminal. You’ll practice basic commands, activate virtual environments, install packages with pip, and keep track of your code using Git."
+  },
+  "https://realpython.com/terms/": {
+    "author": null,
+    "title": "Terms of Use – Real Python",
+    "date": null,
+    "description": "Learn about Real Python&#x27;s terms of use, including membership conditions, content licensing, and user conduct guidelines. Essential information for using our Python learning platform."
+  },
+  "https://realpython.com/tinydb-python/": {
+    "author": "Ian Eyre",
+    "title": "TinyDB: A Lightweight JSON Database for Small Projects",
+    "date": "2026-02-16T14:00:00Z",
+    "description": "If you're looking for a JSON document-oriented database that requires no configuration for your Python project, TinyDB could be exactly what you need."
+  },
+  "https://realpython.com/top-python-game-engines/": {
+    "author": "Jon Fincher",
+    "title": "Top Python Game Engines",
+    "date": "2025-02-02T14:00:00Z",
+    "description": "In this tutorial, you'll explore several Python game engines available to you. For each, you'll code simple examples and a more advanced game to learn the game engine's strengths and weaknesses."
+  },
+  "https://realpython.com/train-test-split-python-data/": {
+    "author": "Mirko Stojiljković",
+    "title": "Split Your Dataset With scikit-learn's train_test_split()",
+    "date": "2025-01-29T14:00:00Z",
+    "description": "In this tutorial, you'll learn why splitting your dataset in supervised machine learning is important and how to do it with train_test_split() from scikit-learn."
+  },
+  "https://realpython.com/urllib-request/": {
+    "author": "Ian Currie",
+    "title": "Python's urllib.request for HTTP Requests",
+    "date": "2025-01-11T14:00:00Z",
+    "description": "In this tutorial, you'll be making HTTP requests with Python's built-in urllib.request. You'll try out examples and review common errors encountered, all while learning more about HTTP requests and Python in general."
+  },
+  "https://realpython.com/using-jupyterlab/": {
+    "author": "Ian Eyre",
+    "title": "JupyterLab for an Enhanced Notebook Experience",
+    "date": "2023-11-13T14:00:00Z",
+    "description": "In this tutorial, you'll learn how to use the JupyterLab authoring environment and what it brings to the popular computational notebook Jupyter Notebook. You'll learn about its different tools and discover how they can work together to enhance your notebook experience."
+  },
+  "https://realpython.com/uv-vs-pip/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "uv vs pip: Managing Python Packages and Dependencies",
+    "date": "2025-09-03T14:00:00Z",
+    "description": "Compare uv vs pip with benchmarks, speed tests, and dependency management tips. Learn which tool is best for your Python projects."
+  },
+  "https://realpython.com/web-scraping-with-scrapy-and-mongodb/": {
+    "author": "Martin Breuss",
+    "title": "Web Scraping With Scrapy and MongoDB",
+    "date": "2024-08-28T14:00:00Z",
+    "description": "This tutorial covers how to write a Python web crawler using Scrapy to scrape and parse data, and then store the data in MongoDB."
+  },
+  "https://realpython.com/what-can-i-do-with-python/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "What Can I Do With Python?",
+    "date": "2025-10-22T14:00:00Z",
+    "description": "Learn how Python builds software, powers AI, automates tasks, and drives robotics. Discover tools and projects to guide your programming journey."
+  },
+  "https://realpython.com/ydata-profiling-eda/": {
+    "author": "Isabel Zimmerman",
+    "title": "Automate Python Data Analysis With YData Profiling",
+    "date": "2026-03-02T14:00:00Z",
+    "description": "Automate exploratory data analysis by transforming DataFrames into interactive reports with one command from YData Profiling."
+  },
+  "https://realpython.com/zen-of-python/": {
+    "author": "Bartosz Zaczyński",
+    "title": "What Exactly Is the Zen of Python?",
+    "date": "2026-02-11T14:00:00Z",
+    "description": "The Zen of Python is a collection of 19 guiding principles for writing good Python code. Learn its history, meaning, and hidden jokes."
+  },
+  "https://realpython.com/courses/using-jupyter-notebooks/": {
+    "author": null,
+    "title": "Using Jupyter Notebooks",
+    "date": "2019-03-01T00:00:00Z",
+    "description": "In this step-by-step course, you learn how to get started with the Jupyter Notebook, an open source web application that you can use to create and share documents that contain live code, equations, visualizations, and text."
+  },
+  "https://realpython.com/courses/django-portfolio-project/": {
+    "author": null,
+    "title": "Getting Started With Django: Building a Portfolio App",
+    "date": "2019-10-08T00:00:00Z",
+    "description": "In this course, you'll learn the basics of creating powerful web applications with Django, a Python web framework. You'll build a portfolio website to showcase your web development projects, complete with a fully functioning blog."
+  },
+  "https://realpython.com/courses/variables-python/": {
+    "author": null,
+    "title": "Variables in Python",
+    "date": "2019-12-10T00:00:00Z",
+    "description": "Learn how every item of data in a Python program can be described by the abstract term \"object,\" and how to manipulate objects using symbolic names called \"variables.\""
+  },
+  "https://realpython.com/courses/finding-perfect-python-code-editor/": {
+    "author": null,
+    "title": "Finding the Perfect Python Code Editor",
+    "date": "2020-02-18T00:00:00Z",
+    "description": "Find your perfect Python development setup with this review of Python IDEs and code editors. Writing Python using IDLE or the Python REPL is great for simple things, but not ideal for larger programming projects. With this course you'll get an overview of the most common Python coding environments to help you make an informed decision."
+  },
+  "https://realpython.com/courses/web-scraping-beautiful-soup/": {
+    "author": null,
+    "title": "Web Scraping With Beautiful Soup and Python",
+    "date": "2020-10-13T00:00:00Z",
+    "description": "In this course, you'll walk through the main steps of the web scraping process. You'll learn how to write a script that uses Python's requests library to scrape data from a website. You'll also use Beautiful Soup to extract the specific pieces of information that you're interested in."
+  },
+  "https://realpython.com/courses/set-up-django-project/": {
+    "author": null,
+    "title": "How to Set Up a Django Project",
+    "date": "2021-05-25T00:00:00Z",
+    "description": "In this course, you'll learn the necessary steps you'll need to take to set up a new Django project. You'll learn the basic setup for any new Django project that needs to happen before programming the specific functionality of your project."
+  },
+  "https://realpython.com/courses/python-sleep-uptime-bot/": {
+    "author": null,
+    "title": "Using sleep() to Code a Python Uptime Bot",
+    "date": "2021-08-03T00:00:00Z",
+    "description": "In this course, you'll learn how to add time delays to your Python programs. You'll use the built-in time module to add Python sleep() calls to your code. To practice, you'll use time.sleep() when making an uptime bot that checks whether a website is still live."
+  },
+  "https://realpython.com/courses/graph-data-with-python-and-ggplot/": {
+    "author": null,
+    "title": "Graph Your Data With Python and ggplot",
+    "date": "2021-09-07T00:00:00Z",
+    "description": "In this course, you'll learn how to use ggplot in Python to build data visualizations with plotnine. You'll discover what a grammar of graphics is and how it can help you create plots in a very concise and consistent way."
+  },
+  "https://realpython.com/courses/writing-idiomatic-python/": {
+    "author": null,
+    "title": "Writing Idiomatic Python",
+    "date": "2021-10-26T00:00:00Z",
+    "description": "What are the programming idioms unique to Python? This course is a short overview for people coming from other languages and an introduction for beginners to the idiomatic practices within Python. You'll cover truth values, looping, DRY principles, and the Zen of Python."
+  },
+  "https://realpython.com/courses/reading-input-writing-output-python/": {
+    "author": null,
+    "title": "Reading Input and Writing Output in Python",
+    "date": "2021-11-02T00:00:00Z",
+    "description": "In this introductory Python course, you'll learn how to take user input from the keyboard with the built-in function input() and how to display output to the console with the built-in function print()."
+  },
+  "https://realpython.com/courses/raising-handling-exceptions/": {
+    "author": null,
+    "title": "Raising and Handling Python Exceptions",
+    "date": "2021-12-21T00:00:00Z",
+    "description": "In this course, you'll learn what an exception is and how it differs from a syntax error. You'll learn about raising exceptions, making assertions, and catching exceptions to change the control flow of your program using the try, except, else, and finally keywords."
+  },
+  "https://realpython.com/courses/exploring-scopes-and-closures-in-python/": {
+    "author": null,
+    "title": "Exploring Scopes and Closures in Python",
+    "date": "2022-05-24T00:00:00Z",
+    "description": "In this Code Conversation video course, you'll take a deep dive into how scopes and closures work in Python. To do this, you'll use a debugger to walk through some sample code, and then you'll take a peek under the hood to see how Python holds variables internally."
+  },
+  "https://realpython.com/courses/data-pandas-concat-and-merge/": {
+    "author": null,
+    "title": "Combining Data in pandas With concat() and merge()",
+    "date": "2022-06-14T00:00:00Z",
+    "description": "In this video course, you'll learn two techniques for combining data in pandas: merge() and concat(). Combining Series and DataFrame objects in pandas is a powerful way to gain new insights into your data."
+  },
+  "https://realpython.com/courses/python-basics-code-bugs/": {
+    "author": null,
+    "title": "Python Basics: Finding and Fixing Code Bugs",
+    "date": "2022-08-02T00:00:00Z",
+    "description": "In this Python Basics video course, you'll learn how to identify and fix logic errors, or bugs, in your Python code. You'll use the built-in debugging tools in Python's Integrated Development and Learning Environment to practice locating and resolving bugs in an example function."
+  },
+  "https://realpython.com/courses/python-basics-file-system-operations/": {
+    "author": null,
+    "title": "Python Basics: File System Operations",
+    "date": "2022-12-20T00:00:00Z",
+    "description": "In this video course, you'll learn how to use the pathlib module to carry out file path operations with Python. These operations include creating, iterating over, searching for, moving, and deleting files and folders."
+  },
+  "https://realpython.com/courses/python-file-system-exercises/": {
+    "author": null,
+    "title": "Python Basics Exercises: File System Operations",
+    "date": "2023-01-17T00:00:00Z",
+    "description": "In this Python Basics Exercises course, you'll review how to use Python to work with your computer's file system. Then, you'll tackle a coding challenge to further develop your skills."
+  },
+  "https://realpython.com/courses/python-string-contains-substring/": {
+    "author": null,
+    "title": "Check if a Python String Contains a Substring",
+    "date": "2023-04-04T00:00:00Z",
+    "description": "In this video course, you'll learn the best way to check whether a Python string contains a substring. You'll also learn about idiomatic ways to inspect the substring further, match substrings with conditions using regular expressions, and search for substrings in pandas."
+  },
+  "https://realpython.com/courses/conditional-logic-control-flow-exercises/": {
+    "author": null,
+    "title": "Python Basics Exercises: Conditional Logic and Control Flow",
+    "date": "2023-09-26T00:00:00Z",
+    "description": "In this Python Basics Exercises course, you'll review how to use conditional logic to write programs that perform different actions based on different conditions. Paired with functions and loops, conditional logic allows you to write complex programs that can handle many different situations."
+  },
+  "https://realpython.com/courses/object-oriented-programming-exercises/": {
+    "author": null,
+    "title": "Python Basics Exercises: Object-Oriented Programming",
+    "date": "2023-10-17T00:00:00Z",
+    "description": "In this Python Basics Exercises course, you'll review OOP, or object-oriented programming. You'll practice creating classes, using classes to create new objects, and instantiating classes with attributes."
+  },
+  "https://realpython.com/courses/building-systems-classes-exercises/": {
+    "author": null,
+    "title": "Python Basics Exercises: Building Systems With Classes",
+    "date": "2023-10-24T00:00:00Z",
+    "description": "In this Python Basics Exercises course, you'll review how to work with classes to build complex systems in Python. By practicing composing classes, inheriting from other classes, and overriding class behavior, you'll harness the power of object-oriented programming (OOP)."
+  },
+  "https://realpython.com/courses/python-exercises-string-methods/": {
+    "author": null,
+    "title": "Python Basics Exercises: Strings and String Methods",
+    "date": "2023-12-12T00:00:00Z",
+    "description": "In this Python Basics Exercises course, you'll review how to work with the string data type. You'll practice manipulating strings with methods and formatting them for printing."
+  },
+  "https://realpython.com/courses/python-basics-lists-tuples/": {
+    "author": null,
+    "title": "Python Basics: Lists and Tuples",
+    "date": "2024-01-23T00:00:00Z",
+    "description": "In this video course, you'll learn about Python lists and tuples, including how to define and manipulate them in your code. By the end of the course, you'll be ready to effectively use lists and tuples in your programming projects."
+  },
+  "https://realpython.com/courses/python-basics-exercises-lists-tuples/": {
+    "author": null,
+    "title": "Python Basics Exercises: Lists and Tuples",
+    "date": "2024-02-06T00:00:00Z",
+    "description": "In this Python Basics Exercises video course, you'll practice defining and manipulating Python lists and tuples in your code. By reinforcing your skills, you'll gain confidence in using lists and tuples in your programming projects."
+  },
+  "https://realpython.com/courses/exercises-introduction-web-scraping/": {
+    "author": null,
+    "title": "Exercises Course: Introduction to Web Scraping With Python",
+    "date": "2024-07-16T00:00:00Z",
+    "description": "In this course, you'll practice the main steps of the web scraping process. You'll write a script that uses Python's requests library to scrape and parse data from a website. You'll also interact with HTML forms using tools like Beautiful Soup and Mechanical Soup to extract specific information."
+  },
+  "https://realpython.com/courses/simulate-text-file/": {
+    "author": null,
+    "title": "Simulate a Text File in Python",
+    "date": "2024-07-30T00:00:00Z",
+    "description": "Testing an application that reads files from a disk can be complicated. It may depend on the machine, require special access, or be frustratingly slow. This course shows you how to simulate a text file using Python to simplify testing."
+  },
+  "https://realpython.com/courses/introduction-to-web-scraping-with-python/": {
+    "author": null,
+    "title": "Introduction to Web Scraping With Python",
+    "date": "2024-11-05T00:00:00Z",
+    "description": "In this video course, you'll learn all about web scraping in Python. You'll see how to parse data from websites and interact with HTML forms using tools such as Beautiful Soup and MechanicalSoup."
+  },
+  "https://realpython.com/courses/checking-membership-in-not-in-operators/": {
+    "author": null,
+    "title": "Checking for Membership Using Python's \"in\" and \"not in\" Operators",
+    "date": "2025-04-08T00:00:00Z",
+    "description": "In this video course, you'll learn how to check if a given value is present or absent in a collection of values using Python's in and not in operators. This type of check is known as a membership test in Python."
+  },
+  "https://realpython.com/courses/first-steps-langchain/": {
+    "author": null,
+    "title": "First Steps With LangChain",
+    "date": "2025-05-20T00:00:00Z",
+    "description": "Large language models (LLMs) have taken the world by storm. In this step-by-step video course, you'll learn to use the LangChain library to build LLM-assisted applications."
+  },
+  "https://realpython.com/courses/tips-using-ai-coding-editor-cursor/": {
+    "author": null,
+    "title": "Tips for Using the AI Coding Editor Cursor",
+    "date": "2026-01-06T00:00:00Z",
+    "description": "Learn Cursor fast: Use AI-powered coding with agents, project-aware chat, and inline edits to supercharge your VS Code workflow."
+  }
+}

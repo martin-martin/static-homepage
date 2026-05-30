@@ -1,5 +1,41 @@
 [
     {
+        "name": "teachflow",
+        "technologies": "Python | AI",
+        "image": "",
+        "description": "an AI assistant that helps teachers create classroom materials, faster.",
+        "live_link": "",
+        "code_link": "https://github.com/martin-martin/teachflow",
+        "info_link": ""
+    },
+    {
+        "name": "barkprints",
+        "technologies": "Python | Embeddings",
+        "image": "",
+        "description": "generate text from photos of tree bark, matched against a corpus using embeddings.",
+        "live_link": "",
+        "code_link": "https://github.com/martin-martin/barkprints",
+        "info_link": ""
+    },
+    {
+        "name": "scrape youtube comments",
+        "technologies": "Python | Selenium",
+        "image": "",
+        "description": "browser automation that collects dynamically-loaded YouTube comments.",
+        "live_link": "",
+        "code_link": "https://github.com/martin-martin/scrape-youtube-comments",
+        "info_link": ""
+    },
+    {
+        "name": "jupyter magic",
+        "technologies": "Jupyter | Python",
+        "image": "",
+        "description": "a tour of cool, lesser-known things you can do in Jupyter Notebooks.",
+        "live_link": "",
+        "code_link": "https://github.com/martin-martin/jupyter-magic",
+        "info_link": ""
+    },
+    {
         "name": "xyayz",
         "technologies": "React | HTML | JavaScript | CSS",
         "image": "static/screenshots/xyayz.png",

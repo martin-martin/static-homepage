@@ -1,6 +1,6 @@
 +++
 title = "define love"
-date = "2024-01-01T00:00:00Z"
+date = "2017-02-07T04:38:18Z"
 draft = false
 description = "querying the Pearson API for word information."
 technologies = "Python | Pearson API"

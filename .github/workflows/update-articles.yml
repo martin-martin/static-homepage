@@ -46,7 +46,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add content/external/
-          git commit -m "chore: update Real Python articles from RSS feed" || exit 0
+          git add content/blog/ rp_meta_cache.json
+          git commit -m "chore: refresh Real Python tutorials & courses" || exit 0
           git push
 
