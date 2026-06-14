@@ -1162,5 +1162,11 @@
     "title": "Tips for Using the AI Coding Editor Cursor",
     "date": "2026-01-06T00:00:00Z",
     "description": "Learn Cursor fast: Use AI-powered coding with agents, project-aware chat, and inline edits to supercharge your VS Code workflow."
+  },
+  "https://realpython.com/python-news-june-2026/": {
+    "author": "Martin Breuss",
+    "title": "Python 3.15 Hits Feature Freeze and Other News for June 2026",
+    "date": "2026-06-08T14:00:00Z",
+    "description": "Python 3.15 hits feature freeze with a built-in sentinel, PEP 829 lands, Pydantic forks httpx, and AI goes bug-hunting in C code."
   }
 }
