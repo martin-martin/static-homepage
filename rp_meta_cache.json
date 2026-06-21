@@ -1168,5 +1168,11 @@
     "title": "Python 3.15 Hits Feature Freeze and Other News for June 2026",
     "date": "2026-06-08T14:00:00Z",
     "description": "Python 3.15 hits feature freeze with a built-in sentinel, PEP 829 lands, Pydantic forks httpx, and AI goes bug-hunting in C code."
+  },
+  "https://realpython.com/python-context-engineering-ai/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Context Engineering for Python Codebases",
+    "date": "2026-06-17T14:00:00Z",
+    "description": "Learn how context engineering shapes what your AI coding agent sees on every turn, and use four practical strategies to keep your Python projects on track."
   }
 }
