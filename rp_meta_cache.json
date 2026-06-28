@@ -1174,5 +1174,11 @@
     "title": "Context Engineering for Python Codebases",
     "date": "2026-06-17T14:00:00Z",
     "description": "Learn how context engineering shapes what your AI coding agent sees on every turn, and use four practical strategies to keep your Python projects on track."
+  },
+  "https://realpython.com/python-for-data-analysis/": {
+    "author": "Ian Eyre",
+    "title": "Python for Data Analysis: A Practical Guide",
+    "date": "2026-06-22T14:00:00Z",
+    "description": "In this tutorial, you'll learn data analysis with Python by following a structured workflow with pandas, Matplotlib, and scikit-learn."
   }
 }
