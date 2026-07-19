@@ -1180,5 +1180,11 @@
     "title": "Python for Data Analysis: A Practical Guide",
     "date": "2026-06-22T14:00:00Z",
     "description": "In this tutorial, you'll learn data analysis with Python by following a structured workflow with pandas, Matplotlib, and scikit-learn."
+  },
+  "https://realpython.com/python-claude-md/": {
+    "author": "Ben Batman",
+    "title": "How to Write a CLAUDE.md File for Claude Code",
+    "date": "2026-07-15T14:00:00Z",
+    "description": "Learn how to write a CLAUDE.md file for Claude Code, with global, project, and local examples that capture your Python commands and conventions."
   }
 }
