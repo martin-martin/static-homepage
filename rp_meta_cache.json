@@ -1186,5 +1186,11 @@
     "title": "How to Write a CLAUDE.md File for Claude Code",
     "date": "2026-07-15T14:00:00Z",
     "description": "Learn how to write a CLAUDE.md file for Claude Code, with global, project, and local examples that capture your Python commands and conventions."
+  },
+  "https://realpython.com/crewai-python/": {
+    "author": "Farah Abdou",
+    "title": "CrewAI in Python: Coordinating Teams of AI Agents",
+    "date": "2026-07-29T14:00:00Z",
+    "description": "Learn how to use CrewAI to build teams of AI agents in Python, define roles and tools, and coordinate multi-agent workflows that solve complex tasks."
   }
 }
