@@ -1192,5 +1192,11 @@
     "title": "CrewAI in Python: Coordinating Teams of AI Agents",
     "date": "2026-07-29T14:00:00Z",
     "description": "Learn how to use CrewAI to build teams of AI agents in Python, define roles and tools, and coordinate multi-agent workflows that solve complex tasks."
+  },
+  "https://realpython.com/ai-debugging/": {
+    "author": "Amanda Adoyi",
+    "title": "How to Debug Python Code With an AI Agent",
+    "date": "2026-08-17T14:00:00Z",
+    "description": "Learn AI debugging by pairing with an AI coding agent: reproduce the bug with a failing test, give your agent context, then verify the fix."
   }
 }
