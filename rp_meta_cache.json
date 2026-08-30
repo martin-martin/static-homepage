@@ -1198,5 +1198,11 @@
     "title": "How to Debug Python Code With an AI Agent",
     "date": "2026-08-17T14:00:00Z",
     "description": "Learn AI debugging by pairing with an AI coding agent: reproduce the bug with a failing test, give your agent context, then verify the fix."
+  },
+  "https://realpython.com/agents-md/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "How to Write an AGENTS.md File for a Python Project",
+    "date": "2026-08-24T14:00:00Z",
+    "description": "Learn how to write an AGENTS.md file so your AI coding agent produces idiomatic Python code that fits your project on the first try."
   }
 }
