@@ -1204,5 +1204,29 @@
     "title": "How to Write an AGENTS.md File for a Python Project",
     "date": "2026-08-24T14:00:00Z",
     "description": "Learn how to write an AGENTS.md file so your AI coding agent produces idiomatic Python code that fits your project on the first try."
+  },
+  "https://realpython.com/ai-benchmark-claude-fable-5-1/": {
+    "author": "Martin Breuss",
+    "title": "Claude Fable 5.1 Draws a Python Reading a Book",
+    "date": "2026-09-03T14:00:00Z",
+    "description": "Claude Fable 5.1 takes Real Python's vibe check for AI models: a turtle drawing of a python reading a book, a Python vintage, a tiny edit, and a made-up function."
+  },
+  "https://realpython.com/ai-benchmark-gpt-6-astra/": {
+    "author": "Martin Breuss",
+    "title": "GPT-6 Astra Draws a Python Reading a Book",
+    "date": "2026-09-04T14:00:00Z",
+    "description": "GPT-6 Astra takes Real Python's vibe check for AI models: a turtle drawing of a python reading a book, a Python vintage, a tiny edit, and a made-up function."
+  },
+  "https://realpython.com/primer-on-python-decorators/": {
+    "author": "Geir Arne Hjelle",
+    "title": "Primer on Python Decorators",
+    "date": "2026-09-01T14:00:00Z",
+    "description": "In this tutorial, you'll look at what Python decorators are and how you define and use them. Decorators can make your code more readable and reusable. Come take a look at how decorators work under the hood and practice writing your own decorators."
+  },
+  "https://realpython.com/python-async-features/": {
+    "author": "Doug Farrell",
+    "title": "Async Programming in Python: From Generators to asyncio",
+    "date": "2026-08-31T14:00:00Z",
+    "description": "Learn how Python async programming works. Write async functions with async and await, and run slow I/O operations concurrently with asyncio."
   }
 }
