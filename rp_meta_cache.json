@@ -1228,5 +1228,11 @@
     "title": "Async Programming in Python: From Generators to asyncio",
     "date": "2026-08-31T14:00:00Z",
     "description": "Learn how Python async programming works. Write async functions with async and await, and run slow I/O operations concurrently with asyncio."
+  },
+  "https://realpython.com/effective-python-environment/": {
+    "author": "Martin Breuss",
+    "title": "An Effective Python Development Environment",
+    "date": "2026-09-09T14:00:00Z",
+    "description": "Choose a Python development environment that helps you get coding. Find tutorials and courses on editors, uv, virtual environments, and useful tools."
   }
 }
