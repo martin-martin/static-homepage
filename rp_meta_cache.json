@@ -1234,5 +1234,29 @@
     "title": "An Effective Python Development Environment",
     "date": "2026-09-09T14:00:00Z",
     "description": "Choose a Python development environment that helps you get coding. Find tutorials and courses on editors, uv, virtual environments, and useful tools."
+  },
+  "https://realpython.com/agentic-engineering/": {
+    "author": "Ben Batman",
+    "title": "Agentic Engineering in Python: From Vibes to Evidence",
+    "date": "2026-09-14T14:00:00Z",
+    "description": "Move from vibe coding to agentic engineering in Python, using tests, types, and code review to prove an AI agent's changes are safe to keep."
+  },
+  "https://realpython.com/primer-on-jinja-templating/": {
+    "author": "Philipp Acsany",
+    "title": "Primer on Jinja Templating",
+    "date": "2026-09-13T14:00:00Z",
+    "description": "With Jinja, you can build rich templates that power the front end of your web applications. But you can use Jinja without a web framework running in the background. Anytime you want to create text files with programmatic content, Jinja can help you out."
+  },
+  "https://realpython.com/python-interview-problem-parsing-csv-files/": {
+    "author": "Jim Anderson",
+    "title": "Python Practice Problems: Parsing CSV Files",
+    "date": "2026-09-13T14:00:00Z",
+    "description": "In this tutorial, you'll prepare for future interviews by working through a set of Python practice problems that involve CSV files. You'll work through the problems yourself and then compare your results with solutions developed by the Real Python team."
+  },
+  "https://realpython.com/python-statistics/": {
+    "author": "Mirko Stojiljković",
+    "title": "Python Statistics Fundamentals: How to Describe Your Data",
+    "date": "2026-09-19T14:00:00Z",
+    "description": "In this step-by-step tutorial, you'll learn the fundamentals of descriptive statistics and how to calculate them in Python. You'll find out how to describe, summarize, and represent your data visually using NumPy, SciPy, pandas, Matplotlib, and the built-in Python statistics library."
   }
 }
