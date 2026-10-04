@@ -1258,5 +1258,11 @@
     "title": "Python Statistics Fundamentals: How to Describe Your Data",
     "date": "2026-09-19T14:00:00Z",
     "description": "In this step-by-step tutorial, you'll learn the fundamentals of descriptive statistics and how to calculate them in Python. You'll find out how to describe, summarize, and represent your data visually using NumPy, SciPy, pandas, Matplotlib, and the built-in Python statistics library."
+  },
+  "https://realpython.com/coding-exercises/": {
+    "author": null,
+    "title": "Coding Exercises: Practice Python Right Where You Learn – Real Python",
+    "date": null,
+    "description": "Hands-on Python coding exercises built into Real Python courses, with instant test feedback, step-by-step hints, and expert solutions."
   }
 }
