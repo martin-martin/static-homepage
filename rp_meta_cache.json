@@ -1264,5 +1264,17 @@
     "title": "Coding Exercises: Practice Python Right Where You Learn – Real Python",
     "date": null,
     "description": "Hands-on Python coding exercises built into Real Python courses, with instant test feedback, step-by-step hints, and expert solutions."
+  },
+  "https://realpython.com/generate-images-openai/": {
+    "author": "Martin Breuss",
+    "title": "Generate Images in Python With OpenAI's GPT Image API",
+    "date": "2026-10-09T14:00:00Z",
+    "description": "Learn how to generate images from text prompts with OpenAI's GPT Image API in Python, tune their size and quality, and edit them with a follow-up prompt."
+  },
+  "https://realpython.com/huggingface-transformers/": {
+    "author": "Harrison Hoffman",
+    "title": "Hugging Face Transformers: Leverage Open-Source AI in Python",
+    "date": "2026-10-09T14:00:00Z",
+    "description": "Get hands-on with Hugging Face Transformers in Python. Download, run, and inspect pretrained open-source AI models, and speed up inference on GPUs."
   }
 }
