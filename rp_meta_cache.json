@@ -1276,5 +1276,23 @@
     "title": "Hugging Face Transformers: Leverage Open-Source AI in Python",
     "date": "2026-10-09T14:00:00Z",
     "description": "Get hands-on with Hugging Face Transformers in Python. Download, run, and inspect pretrained open-source AI models, and speed up inference on GPUs."
+  },
+  "https://realpython.com/ai-benchmark-gemini-4-argon/": {
+    "author": "Martin Breuss",
+    "title": "Gemini 4 Argon Draws a Python Reading a Book",
+    "date": "2026-10-14T14:00:00Z",
+    "description": "Explore Gemini 4 Argon's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions."
+  },
+  "https://realpython.com/python-application-layouts/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python Project Structure: How to Choose the Right Layout",
+    "date": "2026-10-14T14:00:00Z",
+    "description": "Learn how to structure Python projects: pick between flat and src/ layouts, organize your code, and apply the patterns to CLI, web, and GUI apps."
+  },
+  "https://realpython.com/python-histograms/": {
+    "author": "Brad Solomon",
+    "title": "Python Histogram Plotting: NumPy, Matplotlib, pandas & Seaborn",
+    "date": "2026-10-17T14:00:00Z",
+    "description": "In this tutorial, you'll be equipped to make production-quality, presentation-ready Python histogram plots with a range of choices and features."
   }
 }
