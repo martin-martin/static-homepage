@@ -1294,5 +1294,35 @@
     "title": "Python Histogram Plotting: NumPy, Matplotlib, pandas & Seaborn",
     "date": "2026-10-17T14:00:00Z",
     "description": "In this tutorial, you'll be equipped to make production-quality, presentation-ready Python histogram plots with a range of choices and features."
+  },
+  "https://realpython.com/digging-deeper-into-migrations/": {
+    "author": "Daniel Hepper",
+    "title": "Digging Deeper Into Django Migrations",
+    "date": "2026-10-18T14:00:00Z",
+    "description": "Go beyond the basics of Django migrations: how they work under the hood, what the Django migrations table tracks, and what's inside migration files."
+  },
+  "https://realpython.com/django-migrations-a-primer/": {
+    "author": "Daniel Hepper",
+    "title": "Django Migrations: A Primer",
+    "date": "2026-10-18T14:00:00Z",
+    "description": "Get comfortable with Django migrations: create database tables without writing SQL, and keep your database in step as your models change."
+  },
+  "https://realpython.com/python-itertools/": {
+    "author": "David Amos",
+    "title": "Python itertools By Example",
+    "date": "2026-10-22T14:00:00Z",
+    "description": "Master Python's itertools module by building practical examples with batched(), pairwise(), groupby(), and more, and learn to think iteratively."
+  },
+  "https://realpython.com/python-rounding/": {
+    "author": "David Amos",
+    "title": "How to Round Numbers in Python",
+    "date": "2026-10-18T14:00:00Z",
+    "description": "Learn how Python's round() works, why it rounds 2.5 to 2, and how you can manage rounding errors with decimal, NumPy, and pandas."
+  },
+  "https://realpython.com/python-while-loop/": {
+    "author": "Leodanis Pozo Ramos",
+    "title": "Python while Loops: Repeating Tasks Conditionally",
+    "date": "2026-10-24T14:00:00Z",
+    "description": "Master indefinite iteration with Python while loops: build simple and complex loops, use break and continue, and handle infinite loops."
   }
 }
