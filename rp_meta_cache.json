@@ -1324,5 +1324,29 @@
     "title": "Python while Loops: Repeating Tasks Conditionally",
     "date": "2026-10-24T14:00:00Z",
     "description": "Master indefinite iteration with Python while loops: build simple and complex loops, use break and continue, and handle infinite loops."
+  },
+  "https://realpython.com/ai-benchmark-gpt-6-1-terra/": {
+    "author": "Martin Breuss",
+    "title": "GPT-6.1 Terra Draws a Python Reading a Book",
+    "date": "2026-10-30T14:00:00Z",
+    "description": "Explore GPT-6.1 Terra's Python code, turtle drawing, and responses to small tasks that check modern syntax, release knowledge, focused edits, and made-up functions."
+  },
+  "https://realpython.com/introduction-to-python-generators/": {
+    "author": "Kyle Stratis",
+    "title": "How to Use Generators and yield in Python",
+    "date": "2026-10-26T14:00:00Z",
+    "description": "Build generator functions and generator expressions with the Python yield statement, and learn when lazy evaluation pays off."
+  },
+  "https://realpython.com/learn-with-mentor-ai-async-python/": {
+    "author": "Martin Breuss",
+    "title": "Learn With Mentor AI: A Guided Journey Through Async Python",
+    "date": "2026-10-29T14:00:00Z",
+    "description": "Experience a new way of learning on Real Python by working through async Python in conversation with Mentor AI, one well-placed question at a time."
+  },
+  "https://realpython.com/python-sockets/": {
+    "author": "Nathan Jennings",
+    "title": "Socket Programming in Python (Guide)",
+    "date": "2026-10-31T14:00:00Z",
+    "description": "Build a Python socket server and client from scratch, then extend it to handle multiple connections at once without blocking."
   }
 }
