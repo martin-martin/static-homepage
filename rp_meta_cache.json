@@ -1348,5 +1348,11 @@
     "title": "Socket Programming in Python (Guide)",
     "date": "2026-10-31T14:00:00Z",
     "description": "Build a Python socket server and client from scratch, then extend it to handle multiple connections at once without blocking."
+  },
+  "https://realpython.com/python-news-november-2026/": {
+    "author": "Martin Breuss",
+    "title": "Python 3.15 Ships and Other Python News for November 2026",
+    "date": "2026-11-02T14:00:00Z",
+    "description": "Python 3.15 ships, 3.16 eyes None-aware operators, eight broken CA keys trigger security releases, and Anthropic drops temperature."
   }
 }
